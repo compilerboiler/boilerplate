@@ -7,6 +7,10 @@ date: 2019-02-07
 
 Welcome to GitPress. This is your first post.
 
+```python
+print("Hello world")
+````
+
 ## Useful links
 
 - Website: https://gitpress.io
