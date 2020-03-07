@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'percentageCalc'
 
 Functions in program: 
-* def percentToOrig():
+* `def percentToOrig():`
 
 ## percentageCalc
 
@@ -28,4 +28,3 @@ print(percentToOrig())
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

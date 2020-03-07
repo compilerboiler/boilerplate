@@ -35,4 +35,3 @@ print('The first name is ', name[0:5])
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

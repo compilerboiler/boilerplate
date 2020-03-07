@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'magicball 8'
 
 Functions in program: 
-* def magic():
+* `def magic():`
 
 Modules used in program: 
 * import random
@@ -38,4 +38,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

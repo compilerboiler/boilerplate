@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'nearest square and its root'
 
 Functions in program: 
-* def nearest_square(n):
+* `def nearest_square(n):`
 
 ## nearest square and its root
 
@@ -37,4 +37,3 @@ print("Nearest square to {}: \n{}".format(case, res[1]))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'sum'
 
 Functions in program: 
-* def sum_ar(ar, end_i):
-* def sum_(*args):
+* `def sum_ar(ar, end_i):`
+* `def sum_(*args):`
 
 ## sum
 
@@ -66,4 +66,3 @@ if sum_ar([1, 2, 3, 4, 5, 6, 7, 8, 9], 6) == 28:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

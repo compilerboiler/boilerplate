@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'python '
 
 Functions in program: 
-* def create_module(name):
-* def read_file(name):
+* `def create_module(name):`
+* `def read_file(name):`
 
 Modules used in program: 
 * import os
@@ -75,4 +75,3 @@ except Exception, e:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

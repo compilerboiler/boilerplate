@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'length'
 
 Functions in program: 
-* def length(ar, is_ap = False, is_gp = False, big_data = False, data_outline = []):
+* `def length(ar, is_ap = False, is_gp = False, big_data = False, data_outline = []):`
 
 Modules used in program: 
 * import math
@@ -111,4 +111,3 @@ print("Everything Works!\n")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

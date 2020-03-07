@@ -6,9 +6,9 @@ tags: ["python"]
 Python example 'decrypting caesars cipher'
 
 Functions in program: 
-* def decrypt_generator(message, n):
-* def decrypt(message, key):
-* def concat_elements(n):
+* `def decrypt_generator(message, n):`
+* `def decrypt(message, key):`
+* `def concat_elements(n):`
 
 Modules used in program: 
 * import string 
@@ -70,4 +70,3 @@ for res in _result:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

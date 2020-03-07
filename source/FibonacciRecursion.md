@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'FibonacciRecursion'
 
 Functions in program: 
-* def fibo(n):
+* `def fibo(n):`
 
 ## FibonacciRecursion
 
@@ -34,4 +34,3 @@ for x in range(0,noOfTerms):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

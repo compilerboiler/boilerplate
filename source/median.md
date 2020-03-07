@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'median'
 
 Functions in program: 
-* def median(ar, ranked = False):
+* `def median(ar, ranked = False):`
 
 ## median
 
@@ -76,4 +76,3 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

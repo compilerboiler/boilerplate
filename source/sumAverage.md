@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'sumAverage'
 
 Functions in program: 
-* def avgSums():
+* `def avgSums():`
 
 ## sumAverage
 
@@ -31,4 +31,3 @@ print(avgSums)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

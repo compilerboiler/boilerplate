@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'my module'
 
 Functions in program: 
-* def sayHello():
+* `def sayHello():`
 
 ## my module
 
@@ -25,4 +25,3 @@ print('Module ', __name__, ' initialized')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

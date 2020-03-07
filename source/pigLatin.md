@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'pigLatin'
 
 Functions in program: 
-* def alterWords():
+* `def alterWords():`
 
 ## pigLatin
 
@@ -39,4 +39,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

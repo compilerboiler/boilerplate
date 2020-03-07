@@ -6,10 +6,10 @@ tags: ["python"]
 Python example 'AreaOfShapes'
 
 Functions in program: 
-* def traingleArea(base,height):
-* def squareArea(side):
-* def rectangleArea(length,breadth):
-* def circleArea(radius):
+* `def traingleArea(base,height):`
+* `def squareArea(side):`
+* `def rectangleArea(length,breadth):`
+* `def circleArea(radius):`
 
 ## AreaOfShapes
 
@@ -64,4 +64,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'lesson2-ExceptionHandling'
 
 Functions in program: 
-* def is_square(testNumber):
+* `def is_square(testNumber):`
 
 ## lesson2-ExceptionHandling
 
@@ -80,4 +80,3 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

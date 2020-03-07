@@ -77,4 +77,3 @@ print("Thanks! I've saved that text  for next time. (Run the program again.)\n")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

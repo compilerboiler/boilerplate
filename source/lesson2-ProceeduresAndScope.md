@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'lesson2-ProceeduresAndScope'
 
 Functions in program: 
-* def count_to_five():
-* def say_some_names():
+* `def count_to_five():`
+* `def say_some_names():`
 
 ## lesson2-ProceeduresAndScope
 
@@ -102,4 +102,3 @@ print()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

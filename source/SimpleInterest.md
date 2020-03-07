@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'SimpleInterest'
 
 Functions in program: 
-* def totalAmount(princi,simpleInt):
-* def simpleInterest(princi,rate,time):
+* `def totalAmount(princi,simpleInt):`
+* `def simpleInterest(princi,rate,time):`
 
 ## SimpleInterest
 
@@ -55,4 +55,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

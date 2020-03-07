@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'kay sort'
 
 Functions in program: 
-* def kay_sort(array):
+* `def kay_sort(array):`
 
 ## kay sort
 
@@ -41,4 +41,3 @@ print(kay_sort([123, 4, 123, 4])	)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

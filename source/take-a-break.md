@@ -34,4 +34,3 @@ while make_use < 3 :
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

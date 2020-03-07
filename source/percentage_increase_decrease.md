@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'percentage increase decrease'
 
 Functions in program: 
-* def decreasePercent(decrease , origValue):
-* def increasePercent(increase , origValue):
+* `def decreasePercent(decrease , origValue):`
+* `def increasePercent(increase , origValue):`
 
 ## percentage increase decrease
 
@@ -38,4 +38,3 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

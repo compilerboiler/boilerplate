@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'FactorialRecursion'
 
 Functions in program: 
-* def factorial(n):
+* `def factorial(n):`
 
 ## FactorialRecursion
 
@@ -30,4 +30,3 @@ print("The Factorial of",num ,"is :", factorial(num))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

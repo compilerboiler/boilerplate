@@ -31,4 +31,3 @@ print("It's ok if you do not understand them, we will look into them in greater 
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

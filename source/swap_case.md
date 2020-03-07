@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'swap case'
 
 Functions in program: 
-* def swap_case(s):
+* `def swap_case(s):`
 
 ## swap case
 
@@ -31,4 +31,3 @@ def swap_case(s):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

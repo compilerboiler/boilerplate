@@ -44,4 +44,3 @@ moduloFloat = 17.0 % 3.0
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

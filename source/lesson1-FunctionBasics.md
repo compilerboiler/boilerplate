@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'lesson1-FunctionBasics'
 
 Functions in program: 
-* def tripple_number():
-* def double_number(originalNumber):
+* `def tripple_number():`
+* `def double_number(originalNumber):`
 
 ## lesson1-FunctionBasics
 
@@ -113,4 +113,3 @@ print(double_number)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

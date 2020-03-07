@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'primeNumbers'
 
 Functions in program: 
-* def is_number_prime(number):
+* `def is_number_prime(number):`
 
 Modules used in program: 
 * import math as Math
@@ -74,4 +74,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

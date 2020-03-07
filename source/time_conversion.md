@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'time conversion'
 
 Functions in program: 
-* def twelve_to_twenty_four():
+* `def twelve_to_twenty_four():`
 
 ## time conversion
 
@@ -31,4 +31,3 @@ print(twelve_to_twenty_four())
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

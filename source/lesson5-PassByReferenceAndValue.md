@@ -6,9 +6,9 @@ tags: ["python"]
 Python example 'lesson5-PassByReferenceAndValue'
 
 Functions in program: 
-* def change_the_string(someString):
-* def change_the_list(someList):
-* def change_the_number(someNum):
+* `def change_the_string(someString):`
+* `def change_the_list(someList):`
+* `def change_the_number(someNum):`
 
 ## lesson5-PassByReferenceAndValue
 
@@ -123,4 +123,3 @@ print()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

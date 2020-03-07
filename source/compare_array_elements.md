@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'compare array elements'
 
 Functions in program: 
-* def compare_array_elements(arr1, arr2):
+* `def compare_array_elements(arr1, arr2):`
 
 ## compare array elements
 
@@ -61,4 +61,3 @@ for test in tests:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

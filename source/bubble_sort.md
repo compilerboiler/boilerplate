@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'bubble sort'
 
 Functions in program: 
-* def sort_(arr, temporary = False, reverse = False):
+* `def sort_(arr, temporary = False, reverse = False):`
 
 ## bubble sort
 
@@ -102,4 +102,3 @@ for test in tests:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

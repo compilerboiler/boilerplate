@@ -27,4 +27,3 @@ print("The Factorial is {0}".format(fact))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'sum array'
 
 Functions in program: 
-* def sum_arr(n):
+* `def sum_arr(n):`
 
 ## sum array
 
@@ -34,4 +34,3 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

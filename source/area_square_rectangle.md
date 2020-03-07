@@ -22,4 +22,3 @@ print('The area for given length and breadth is : ',length*breadth)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

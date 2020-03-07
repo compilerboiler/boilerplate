@@ -39,4 +39,3 @@ print(Template('$greeting $name how are you?').substitute(locals()))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

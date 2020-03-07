@@ -33,4 +33,3 @@ print(random.choice(colors))  # choses random element from list
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

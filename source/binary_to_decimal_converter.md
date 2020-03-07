@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'binary to decimal converter'
 
 Functions in program: 
-* def binary_to_decimal_conv(binary_string):
+* `def binary_to_decimal_conv(binary_string):`
 
 Modules used in program: 
 * import sys
@@ -56,4 +56,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

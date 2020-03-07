@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'distance on number line'
 
 Functions in program: 
-* def distance(x,y):
+* `def distance(x,y):`
 
 ## distance on number line
 
@@ -35,4 +35,3 @@ while flag:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'extra stuff'
 
 Functions in program: 
-* def say_hello(): return 'hello'
+* `def say_hello(): return 'hello'`
 
 Modules used in program: 
 * import os
@@ -69,4 +69,3 @@ eval(repr(sal_more_than_30k))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

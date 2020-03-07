@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'item index'
 
 Functions in program: 
-* def index(array, item):
+* `def index(array, item):`
 
 ## item index
 
@@ -33,4 +33,3 @@ print(index([12, 34], 34)	)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

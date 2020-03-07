@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'lesson3-DefaultArguments'
 
 Functions in program: 
-* def print_list(dataList, startingNumber = 1, allCaps = False):
+* `def print_list(dataList, startingNumber = 1, allCaps = False):`
 
 ## lesson3-DefaultArguments
 
@@ -107,4 +107,3 @@ print()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

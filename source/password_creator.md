@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'password creator'
 
 Functions in program: 
-* def create_password(n):
+* `def create_password(n):`
 
 Modules used in program: 
 * import string
@@ -53,4 +53,3 @@ print(test2)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'caesars cipher encryption'
 
 Functions in program: 
-* def caesars_cipher_encoding(s, k, lowercase = True, uppercase = False):
+* `def caesars_cipher_encoding(s, k, lowercase = True, uppercase = False):`
 
 Modules used in program: 
 * import string, sys
@@ -108,4 +108,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

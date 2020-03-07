@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'PrimeNumbers'
 
 Functions in program: 
-* def isPrime(number):
+* `def isPrime(number):`
 
 ## PrimeNumbers
 
@@ -38,4 +38,3 @@ for j in range(lowerLimit,upperLimit+1):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

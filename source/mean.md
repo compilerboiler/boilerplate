@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'mean'
 
 Functions in program: 
-* def mean_ar(ar):
-* def mean_(*args):
+* `def mean_ar(ar):`
+* `def mean_(*args):`
 
 ## mean
 
@@ -59,4 +59,3 @@ if mean_ar([12, 445, 76, 23, 7, 9, 17, 19, 10]) == 68.66666666666667:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

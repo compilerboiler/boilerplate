@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'mod example'
 
 Functions in program: 
-* def downloadImage(url):
+* `def downloadImage(url):`
 
 Modules used in program: 
 * import urllib.request
@@ -34,4 +34,3 @@ downloadImage()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

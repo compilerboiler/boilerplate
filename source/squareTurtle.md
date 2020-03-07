@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'squareTurtle'
 
 Functions in program: 
-* def square():
+* `def square():`
 
 Modules used in program: 
 * import turtle
@@ -36,4 +36,3 @@ square()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

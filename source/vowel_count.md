@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'vowel count'
 
 Functions in program: 
-* def vowel_count(S):
+* `def vowel_count(S):`
 
 Modules used in program: 
 * import sys
@@ -58,4 +58,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

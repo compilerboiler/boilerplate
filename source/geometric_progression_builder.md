@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'geometric progression builder'
 
 Functions in program: 
-* def build_geo_sequence(start, end, constant):
+* `def build_geo_sequence(start, end, constant):`
 
 ## geometric progression builder
 
@@ -48,4 +48,3 @@ for i in res:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

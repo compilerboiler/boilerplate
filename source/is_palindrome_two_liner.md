@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'is palindrome two liner'
 
 Functions in program: 
-* def is_palindrome(s):
+* `def is_palindrome(s):`
 
 Modules used in program: 
 * import string
@@ -43,4 +43,3 @@ print(is_palindrome("cool..eh")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

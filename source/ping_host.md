@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'ping host'
 
 Functions in program: 
-* def ping_host(host_name):
+* `def ping_host(host_name):`
 
 Modules used in program: 
 * import platform as plt
@@ -44,4 +44,3 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

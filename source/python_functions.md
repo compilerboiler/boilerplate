@@ -6,9 +6,9 @@ tags: ["python"]
 Python example 'python functions'
 
 Functions in program: 
-* def print_usage(init_msg, max_val=True, min_val=True):
-* def min_val(a,b):
-* def max_val(a,b):
+* `def print_usage(init_msg, max_val=True, min_val=True):`
+* `def min_val(a,b):`
+* `def max_val(a,b):`
 
 ## python functions
 
@@ -83,4 +83,3 @@ print_usage('The usage of functions min_val and max_val')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

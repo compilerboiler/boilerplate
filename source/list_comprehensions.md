@@ -30,4 +30,3 @@ print(list_of_odd_cubes , "\n")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

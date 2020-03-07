@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'decimal to binary converter'
 
 Functions in program: 
-* def decimal_to_binary(n):
-* def concat(S):
+* `def decimal_to_binary(n):`
+* `def concat(S):`
 
 ## decimal to binary converter
 
@@ -54,4 +54,3 @@ for case in cases:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

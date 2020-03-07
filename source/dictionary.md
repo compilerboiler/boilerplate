@@ -6,9 +6,9 @@ tags: ["python"]
 Python example 'dictionary'
 
 Functions in program: 
-* def main():
-* def end():
-* def start():
+* `def main():`
+* `def end():`
+* `def start():`
 
 ## dictionary
 
@@ -107,4 +107,3 @@ if __name__ == "__main__":
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

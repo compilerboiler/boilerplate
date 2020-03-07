@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'discount'
 
 Functions in program: 
-* def percToDiscount(percent , mp):
+* `def percToDiscount(percent , mp):`
 
 ## discount
 
@@ -36,4 +36,3 @@ while(True):  # I've put counting discount in a loop cause if you want to count 
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

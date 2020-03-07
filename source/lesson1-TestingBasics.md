@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'lesson1-TestingBasics'
 
 Functions in program: 
-* def is_square(testNumber):
+* `def is_square(testNumber):`
 
 ## lesson1-TestingBasics
 
@@ -77,4 +77,3 @@ print("The number 25 is square: " + str(is_square(25)))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

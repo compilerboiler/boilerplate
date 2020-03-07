@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'binary search'
 
 Functions in program: 
-* def binary_search(arr, f, l, v, sorted_ar = False):
+* `def binary_search(arr, f, l, v, sorted_ar = False):`
 
 Modules used in program: 
 * import sys
@@ -101,4 +101,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

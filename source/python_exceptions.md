@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'python exceptions'
 
 Functions in program: 
-* def another_method():
-* def some_method():
+* `def another_method():`
+* `def some_method():`
 
 ## python exceptions
 
@@ -43,4 +43,3 @@ another_method()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

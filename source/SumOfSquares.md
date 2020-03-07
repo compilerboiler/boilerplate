@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'SumOfSquares'
 
 Functions in program: 
-* def sumOfSquares(n):
+* `def sumOfSquares(n):`
 
 ## SumOfSquares
 
@@ -30,4 +30,3 @@ print("Sum of Squares of first",n ,"numbers is : ", sumOfSquares(n))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

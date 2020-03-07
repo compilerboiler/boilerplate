@@ -6,8 +6,8 @@ tags: ["python"]
 Python example 'madLibs'
 
 Functions in program: 
-* def excuses():
-* def dragonFreak():
+* `def excuses():`
+* `def dragonFreak():`
 
 ## madLibs
 
@@ -76,4 +76,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

@@ -6,12 +6,12 @@ tags: ["python"]
 Python example 'physics'
 
 Functions in program: 
-* def moment():
-* def accelaration():
-* def velocity():
-* def speed():
-* def force():
-* def preassure():
+* `def moment():`
+* `def accelaration():`
+* `def velocity():`
+* `def speed():`
+* `def force():`
+* `def preassure():`
 
 ## physics
 
@@ -132,4 +132,3 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com

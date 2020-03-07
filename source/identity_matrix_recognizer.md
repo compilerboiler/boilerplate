@@ -6,7 +6,7 @@ tags: ["python"]
 Python example 'identity matrix recognizer'
 
 Functions in program: 
-* def is_identity_matrix(matrix):
+* `def is_identity_matrix(matrix):`
 
 ## identity matrix recognizer
 
@@ -98,4 +98,3 @@ print(is_identity_matrix(matrix7))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
-- Another Python site: https://pythonprogramminglanguage.com
