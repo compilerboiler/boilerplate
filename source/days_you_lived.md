@@ -3,6 +3,10 @@ title: days you lived (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'days you lived'
+
+Functions in program: 
+* def daysBetweenDates(year1, month1, day1, year2, month2, day2):
 
 ## days you lived
 
@@ -45,3 +49,4 @@ def daysBetweenDates(year1, month1, day1, year2, month2, day2):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,10 @@ title: cartesian plane quadrant (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'cartesian plane quadrant'
+
+Functions in program: 
+* def determine_quadrant(x, y):
 
 ## cartesian plane quadrant
 
@@ -38,3 +42,4 @@ print("Quadrant is " + result)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,11 @@ title: in the something (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'in the something'
+
+
+Modules used in program: 
+* import random
 
 ## in the something
 
@@ -30,3 +35,4 @@ while flag:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

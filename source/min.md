@@ -3,6 +3,10 @@ title: min (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'min'
+
+Functions in program: 
+* def min_(seq):
 
 ## min
 
@@ -54,3 +58,4 @@ for test_i in range(len(tests)):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

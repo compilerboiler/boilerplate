@@ -3,6 +3,11 @@ title: otherAngle (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'otherAngle'
+
+Functions in program: 
+* def supplementary():
+* def complementary():
 
 ## otherAngle
 
@@ -54,3 +59,4 @@ while(True):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

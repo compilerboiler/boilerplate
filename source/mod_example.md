@@ -3,6 +3,14 @@ title: mod example (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'mod example'
+
+Functions in program: 
+* def downloadImage(url):
+
+Modules used in program: 
+* import urllib.request
+* import random
 
 ## mod example
 
@@ -26,3 +34,4 @@ downloadImage()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

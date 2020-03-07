@@ -3,6 +3,13 @@ title: binary search (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'binary search'
+
+Functions in program: 
+* def binary_search(arr, f, l, v, sorted_ar = False):
+
+Modules used in program: 
+* import sys
 
 ## binary search
 
@@ -18,7 +25,6 @@ import sys
 # I'm too lazy to explain how it works, 
 # instead check below sites out:
 # https://en.wikipedia.org/wiki/Binary_search_algorithm
-# https://www.geeksforgeeks.org/binary-search/
 
 # Make sure you know concept of Recursion
 
@@ -95,3 +101,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

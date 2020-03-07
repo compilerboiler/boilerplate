@@ -3,6 +3,10 @@ title: arithmetic progression builder (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'arithmetic progression builder'
+
+Functions in program: 
+* def arithmetic_p_sequence_builder(a, d, n_last):
 
 ## arithmetic progression builder
 
@@ -55,3 +59,4 @@ print("Arithmetic progression: {}".format(arithmetic_p_sequence_builder(int(raw_
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,10 @@ title: count (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'count'
+
+Functions in program: 
+* def count(ar, n):
 
 ## count
 
@@ -51,3 +55,4 @@ for test_case in test_cases:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,11 @@ title: rock,paper,scissor (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'rock,paper,scissor'
+
+
+Modules used in program: 
+* import random
 
 ## rock,paper,scissor
 
@@ -66,3 +71,4 @@ while 2 == 2:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

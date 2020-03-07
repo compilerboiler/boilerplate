@@ -3,20 +3,21 @@ title: hello world (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'hello world'
+
 
 ## hello world
 
 Python beginners example: hello world
 
 ```python
-# printing hello world is a tradition in beginners 
-# it is normally used to if check everything is okay
-import sys
+print('Hello World ....!')
 
-sys.stdout.write("Hello, ")
-sys.stdout.write("World!")
-sys.stdout.write("\n")
-print("Hello, World!")
+
+
+
+# Simple hello world program showing basic print(function.)
+
 
 
 ```
@@ -25,3 +26,4 @@ print("Hello, World!")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

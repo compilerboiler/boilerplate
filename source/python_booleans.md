@@ -3,6 +3,8 @@ title: python booleans (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python booleans'
+
 
 ## python booleans
 
@@ -29,3 +31,4 @@ print("It's ok if you do not understand them, we will look into them in greater 
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

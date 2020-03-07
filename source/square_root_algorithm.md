@@ -3,6 +3,12 @@ title: square root algorithm (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'square root algorithm'
+
+Functions in program: 
+* def square_root(take_in):
+* def extract_common(li):
+* def prime_factors(c):
 
 ## square root algorithm
 
@@ -54,3 +60,4 @@ print(square_root(extract_common(prime_factors(get_num))), " ")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

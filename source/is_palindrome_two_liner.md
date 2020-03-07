@@ -3,6 +3,13 @@ title: is palindrome two liner (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'is palindrome two liner'
+
+Functions in program: 
+* def is_palindrome(s):
+
+Modules used in program: 
+* import string
 
 ## is palindrome two liner
 
@@ -36,3 +43,4 @@ print(is_palindrome("cool..eh")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

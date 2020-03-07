@@ -3,6 +3,8 @@ title: python logical lines (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python logical lines'
+
 
 ## python logical lines
 
@@ -28,3 +30,4 @@ but in reality it does not"
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

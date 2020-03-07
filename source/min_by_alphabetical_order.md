@@ -3,6 +3,14 @@ title: min by alphabetical order (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'min by alphabetical order'
+
+Functions in program: 
+* def min_alphabetical_order(s):
+* def lower_(arr):
+
+Modules used in program: 
+* import string 
 
 ## min by alphabetical order
 
@@ -46,3 +54,4 @@ print("Max element in list by alphabet order:\n" + call)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

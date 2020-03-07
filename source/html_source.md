@@ -3,6 +3,13 @@ title: html source (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'html source'
+
+Functions in program: 
+* def get_html(url , fname):
+
+Modules used in program: 
+* import urllib
 
 ## html source
 
@@ -45,3 +52,4 @@ while(True):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,13 @@ title: magicball 8 (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'magicball 8'
+
+Functions in program: 
+* def magic():
+
+Modules used in program: 
+* import random
 
 ## magicball 8
 
@@ -31,3 +38,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

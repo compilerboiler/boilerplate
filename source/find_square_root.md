@@ -3,6 +3,10 @@ title: find square root (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'find square root'
+
+Functions in program: 
+* def find_square_root(x):
 
 ## find square root
 
@@ -35,3 +39,4 @@ print("Square root of {} is {}".format(x, result))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

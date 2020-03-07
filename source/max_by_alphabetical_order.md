@@ -3,6 +3,14 @@ title: max by alphabetical order (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'max by alphabetical order'
+
+Functions in program: 
+* def max_alphabetical_order(s):
+* def lower_(arr):
+
+Modules used in program: 
+* import string 
 
 ## max by alphabetical order
 
@@ -46,3 +54,4 @@ print("Max element in list by alphabet order:\n" + call)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,17 @@ title: are you connected to world (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'are you connected to world'
+
+Functions in program: 
+* def exit_(status):
+* def you_cant_be_dead(host):
+* def ping(host):
+
+Modules used in program: 
+* import webbrowser
+* import sys
+* import os
 
 ## are you connected to world
 
@@ -76,3 +87,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

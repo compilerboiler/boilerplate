@@ -3,6 +3,13 @@ title: binary to decimal converter (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'binary to decimal converter'
+
+Functions in program: 
+* def binary_to_decimal_conv(binary_string):
+
+Modules used in program: 
+* import sys
 
 ## binary to decimal converter
 
@@ -49,3 +56,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,8 @@ title: python write (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python write'
+
 
 ## python write
 
@@ -25,3 +27,4 @@ fp.close()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

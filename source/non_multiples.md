@@ -3,6 +3,8 @@ title: non multiples (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'non multiples'
+
 
 ## non multiples
 
@@ -30,3 +32,4 @@ for element in list_of_non_multiples:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

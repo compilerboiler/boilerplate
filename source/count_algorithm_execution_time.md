@@ -3,6 +3,11 @@ title: count algorithm execution time (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'count algorithm execution time'
+
+Functions in program: 
+* def binary_search(array, n):
+* def count_cpu_microtime(func_name, *args):
 
 ## count algorithm execution time
 
@@ -53,3 +58,4 @@ print(str(result) + " microsecs")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

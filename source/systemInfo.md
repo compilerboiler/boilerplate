@@ -3,6 +3,13 @@ title: systemInfo (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'systemInfo'
+
+
+Modules used in program: 
+* import sys
+* import os  
+* import platform  
 
 ## systemInfo
 
@@ -30,3 +37,4 @@ print('============================')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

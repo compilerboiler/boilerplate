@@ -3,6 +3,8 @@ title: deMorgans law (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'deMorgans law'
+
 
 ## deMorgans law
 
@@ -30,3 +32,4 @@ print(str(eqn) + ' = ' + str(len(abUnion)))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

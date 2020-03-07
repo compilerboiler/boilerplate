@@ -3,6 +3,11 @@ title: calculator (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'calculator'
+
+
+Modules used in program: 
+* import sys
 
 ## calculator
 
@@ -53,3 +58,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

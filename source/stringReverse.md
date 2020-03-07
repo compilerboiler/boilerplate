@@ -3,6 +3,8 @@ title: stringReverse (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'stringReverse'
+
 
 ## stringReverse
 
@@ -24,3 +26,4 @@ print(reverseString)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

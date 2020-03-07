@@ -3,6 +3,13 @@ title: primeNumbers (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'primeNumbers'
+
+Functions in program: 
+* def is_number_prime(number):
+
+Modules used in program: 
+* import math as Math
 
 ## primeNumbers
 
@@ -67,3 +74,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

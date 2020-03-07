@@ -3,6 +3,8 @@ title: python string interpolation (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python string interpolation'
+
 
 ## python string interpolation
 
@@ -37,3 +39,4 @@ print(Template('$greeting $name how are you?').substitute(locals()))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

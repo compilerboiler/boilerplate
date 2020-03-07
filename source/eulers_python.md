@@ -3,6 +3,12 @@ title: eulers python (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'eulers python'
+
+Functions in program: 
+* def F(e, v):
+* def V(e, f):
+* def E(f, v):
 
 ## eulers python
 
@@ -61,3 +67,4 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

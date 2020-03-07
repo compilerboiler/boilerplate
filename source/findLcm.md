@@ -3,6 +3,10 @@ title: findLcm (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'findLcm'
+
+Functions in program: 
+* def findLcm(i,v):
 
 ## findLcm
 
@@ -39,3 +43,4 @@ while(True):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

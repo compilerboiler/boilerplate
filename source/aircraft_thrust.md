@@ -3,6 +3,13 @@ title: aircraft thrust (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'aircraft thrust'
+
+Functions in program: 
+* def thrust_props(diameter , velocity , velocity1 , density):
+
+Modules used in program: 
+* import math
 
 ## aircraft thrust
 
@@ -44,3 +51,4 @@ while(True):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

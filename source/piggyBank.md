@@ -3,6 +3,12 @@ title: piggyBank (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'piggyBank'
+
+Functions in program: 
+* def currentMoney():
+* def withdrawMoney():
+* def addMoney():
 
 ## piggyBank
 
@@ -74,3 +80,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

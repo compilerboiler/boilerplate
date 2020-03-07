@@ -3,6 +3,8 @@ title: table maker (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'table maker'
+
 
 ## table maker
 
@@ -23,3 +25,4 @@ for digit in li_a:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

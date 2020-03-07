@@ -3,6 +3,10 @@ title: find cube root (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'find cube root'
+
+Functions in program: 
+* def find_cube_root(x):
 
 ## find cube root
 
@@ -35,3 +39,4 @@ print("Cube root of {} is {}".format(x, result))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

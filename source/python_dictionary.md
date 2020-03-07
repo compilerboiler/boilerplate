@@ -3,6 +3,8 @@ title: python dictionary (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python dictionary'
+
 
 ## python dictionary
 
@@ -48,3 +50,4 @@ for k, v in phonebook.items():
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

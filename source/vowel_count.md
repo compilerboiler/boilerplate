@@ -3,6 +3,13 @@ title: vowel count (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'vowel count'
+
+Functions in program: 
+* def vowel_count(S):
+
+Modules used in program: 
+* import sys
 
 ## vowel count
 
@@ -51,3 +58,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

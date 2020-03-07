@@ -3,6 +3,13 @@ title: squareTurtle (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'squareTurtle'
+
+Functions in program: 
+* def square():
+
+Modules used in program: 
+* import turtle
 
 ## squareTurtle
 
@@ -29,3 +36,4 @@ square()
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

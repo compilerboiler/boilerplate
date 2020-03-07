@@ -3,6 +3,15 @@ title: decrypting caesars cipher (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'decrypting caesars cipher'
+
+Functions in program: 
+* def decrypt_generator(message, n):
+* def decrypt(message, key):
+* def concat_elements(n):
+
+Modules used in program: 
+* import string 
 
 ## decrypting caesars cipher
 
@@ -61,3 +70,4 @@ for res in _result:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

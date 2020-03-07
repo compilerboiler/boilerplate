@@ -3,6 +3,12 @@ title: newOnContacts (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'newOnContacts'
+
+Functions in program: 
+* def editContact():
+* def searchContact():
+* def newContact():
 
 ## newOnContacts
 
@@ -105,3 +111,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

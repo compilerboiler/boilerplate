@@ -3,6 +3,10 @@ title: selection sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'selection sort'
+
+Functions in program: 
+* def sort_(arr,temporary =False,reverse=False):
 
 ## selection sort
 
@@ -102,3 +106,4 @@ for test in tests:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

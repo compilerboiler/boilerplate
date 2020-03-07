@@ -3,6 +3,11 @@ title: pyKeywords (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'pyKeywords'
+
+
+Modules used in program: 
+* import keyword
 
 ## pyKeywords
 
@@ -31,3 +36,4 @@ print(pythonKeywords)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,15 @@ title: useful function mapping (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'useful function mapping'
+
+Functions in program: 
+* def is_odd(n):
+* def is_even(n):
+* def is_divisible(n, t):
+* def raise_power(n, power):
+* def cubed(n):
+* def squared(n):
 
 ## useful function mapping
 
@@ -52,3 +61,4 @@ print(map(squared, [1, 3, 5, 7, 9, 11, 13, 15]))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

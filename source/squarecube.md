@@ -3,6 +3,10 @@ title: squarecube (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'squarecube'
+
+Functions in program: 
+* def square():
 
 ## squarecube
 
@@ -67,3 +71,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

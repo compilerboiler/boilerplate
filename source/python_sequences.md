@@ -3,6 +3,8 @@ title: python sequences (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python sequences'
+
 
 ## python sequences
 
@@ -33,3 +35,4 @@ print('The first name is ', name[0:5])
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

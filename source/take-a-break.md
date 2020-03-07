@@ -3,6 +3,12 @@ title: take-a-break (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'take-a-break'
+
+
+Modules used in program: 
+* import time
+* import webbrowser
 
 ## take-a-break
 
@@ -28,3 +34,4 @@ while make_use < 3 :
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

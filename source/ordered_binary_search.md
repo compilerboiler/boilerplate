@@ -3,6 +3,11 @@ title: ordered binary search (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'ordered binary search'
+
+Functions in program: 
+* def Ordered_binary_search(arra, elem):
+* def binary_search(array, n):
 
 ## ordered binary search
 
@@ -51,3 +56,4 @@ print(Ordered_binary_search(nums, 5)	)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

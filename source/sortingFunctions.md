@@ -3,6 +3,15 @@ title: sortingFunctions (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'sortingFunctions'
+
+Functions in program: 
+* def subBubbleSort(z,userSub):
+* def addBubbleSort(f,user):# here f is list and user is integer or float
+* def divisibleSort(divi , get):# here divi is list and get is an variable set to integer or float
+* def evenSort(eve):# eve can be list or variable
+* def oddSort(odd):# odd can be list or variable
+* def bubbleSort(g): # g argument is for list
 
 ## sortingFunctions
 
@@ -77,3 +86,4 @@ def subBubbleSort(z,userSub):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

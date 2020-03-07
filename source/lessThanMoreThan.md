@@ -3,6 +3,11 @@ title: lessThanMoreThan (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'lessThanMoreThan'
+
+Functions in program: 
+* def compareLess(d):
+* def compareMore(a):
 
 ## lessThanMoreThan
 
@@ -42,3 +47,4 @@ print(moreFinalNums,'\n')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

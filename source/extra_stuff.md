@@ -3,6 +3,13 @@ title: extra stuff (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'extra stuff'
+
+Functions in program: 
+* def say_hello(): return 'hello'
+
+Modules used in program: 
+* import os
 
 ## extra stuff
 
@@ -62,3 +69,4 @@ eval(repr(sal_more_than_30k))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

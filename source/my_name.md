@@ -3,6 +3,8 @@ title: my name (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'my name'
+
 
 ## my name
 
@@ -22,3 +24,4 @@ print((inside[10] + inside[0] + inside[11] + inside[15] + inside[0] + inside[10]
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

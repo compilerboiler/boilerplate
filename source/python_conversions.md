@@ -3,6 +3,8 @@ title: python conversions (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python conversions'
+
 
 ## python conversions
 
@@ -31,3 +33,4 @@ print("strt is of type ", type(strt))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,14 @@ title: python  (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python '
+
+Functions in program: 
+* def create_module(name):
+* def read_file(name):
+
+Modules used in program: 
+* import os
 
 ## python 
 
@@ -67,3 +75,4 @@ except Exception, e:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

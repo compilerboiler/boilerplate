@@ -3,6 +3,10 @@ title: bubble sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'bubble sort'
+
+Functions in program: 
+* def sort_(arr, temporary = False, reverse = False):
 
 ## bubble sort
 
@@ -75,11 +79,6 @@ def sort_(arr, temporary = False, reverse = False):
 	if temporary:
 		return ar 	
 
-# See proper explaination 
-# at: https://www.geeksforgeeks.org/bubble-sort/
-# a good site!
-
-
 # Testing
 tests = [[7, 8, 9, 6, 4, 5, 3, 2, 1, 15], [1, 90, 1110, 1312, 1110, 98, 76, 54, 32, 10], ] # Add your test cases 
 
@@ -103,3 +102,4 @@ for test in tests:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

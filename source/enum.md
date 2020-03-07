@@ -3,6 +3,10 @@ title: enum (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'enum'
+
+Functions in program: 
+* def enum(ar):
 
 ## enum
 
@@ -40,3 +44,4 @@ for tup in list(enum(case_1)):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

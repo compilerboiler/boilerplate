@@ -3,6 +3,8 @@ title: listOperations (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'listOperations'
+
 
 ## listOperations
 
@@ -40,3 +42,4 @@ newList = numsAndAlphas + list2
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

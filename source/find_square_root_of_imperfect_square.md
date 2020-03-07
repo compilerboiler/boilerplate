@@ -3,6 +3,12 @@ title: find square root of imperfect square (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'find square root of imperfect square'
+
+Functions in program: 
+* def sqrt_of_imperfect_square(a, certainty = 6):
+* def average(*args):
+* def is_perfect_square(n):
 
 ## find square root of imperfect square
 
@@ -61,3 +67,4 @@ print("Root Squared: " + str(res * res))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

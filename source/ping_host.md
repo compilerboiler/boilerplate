@@ -3,6 +3,14 @@ title: ping host (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'ping host'
+
+Functions in program: 
+* def ping_host(host_name):
+
+Modules used in program: 
+* import platform as plt
+* import os
 
 ## ping host
 
@@ -36,3 +44,4 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

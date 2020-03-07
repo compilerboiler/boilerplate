@@ -3,6 +3,14 @@ title: image downloader (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'image downloader'
+
+Functions in program: 
+* def download_image(url):
+
+Modules used in program: 
+* import urllib.request
+* import random
 
 ## image downloader
 
@@ -28,3 +36,4 @@ print(download_image(get))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

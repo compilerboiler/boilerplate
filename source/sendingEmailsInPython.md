@@ -3,6 +3,13 @@ title: sendingEmailsInPython (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'sendingEmailsInPython'
+
+Functions in program: 
+* def sendMail():
+
+Modules used in program: 
+* import smtplib
 
 ## sendingEmailsInPython
 
@@ -49,3 +56,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

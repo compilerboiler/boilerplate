@@ -3,6 +3,10 @@ title: logarithm integer (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'logarithm integer'
+
+Functions in program: 
+* def logarithm_integer(b, x):
 
 ## logarithm integer
 
@@ -43,3 +47,4 @@ print("log(0, 16) -> " + str(logarithm_integer(0, 16)))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

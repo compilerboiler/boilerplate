@@ -3,6 +3,10 @@ title: linear search (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'linear search'
+
+Functions in program: 
+* def linear_search(array, to_find):
 
 ## linear search
 
@@ -31,3 +35,4 @@ print(linear_search(nums, 88)			)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

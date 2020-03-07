@@ -3,6 +3,10 @@ title: my module (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'my module'
+
+Functions in program: 
+* def sayHello():
 
 ## my module
 
@@ -21,3 +25,4 @@ print('Module ', __name__, ' initialized')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

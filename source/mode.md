@@ -3,6 +3,11 @@ title: mode (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'mode'
+
+Functions in program: 
+* def mode(data):
+* def reduce_data(data):
 
 ## mode
 
@@ -80,3 +85,4 @@ print("")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

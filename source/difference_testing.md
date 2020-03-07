@@ -3,6 +3,10 @@ title: difference testing (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'difference testing'
+
+Functions in program: 
+* def find_difference_matching(x , y , diff = 0):
 
 ## difference testing
 
@@ -32,3 +36,4 @@ for i in result:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,8 @@ title: list comprehensions (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'list comprehensions'
+
 
 ## list comprehensions
 
@@ -28,3 +30,4 @@ print(list_of_odd_cubes , "\n")
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

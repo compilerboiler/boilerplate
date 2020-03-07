@@ -3,6 +3,8 @@ title: star turtle (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'star turtle'
+
 
 ## star turtle
 
@@ -29,3 +31,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,14 @@ title: password creator (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'password creator'
+
+Functions in program: 
+* def create_password(n):
+
+Modules used in program: 
+* import string
+* import random
 
 ## password creator
 
@@ -45,3 +53,4 @@ print(test2)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,10 @@ title: percentageCalc (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'percentageCalc'
+
+Functions in program: 
+* def percentToOrig():
 
 ## percentageCalc
 
@@ -24,3 +28,4 @@ print(percentToOrig())
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

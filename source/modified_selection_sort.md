@@ -3,6 +3,10 @@ title: modified selection sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'modified selection sort'
+
+Functions in program: 
+* def selection_sort(array):
 
 ## modified selection sort
 
@@ -36,3 +40,4 @@ print("By SelectionSort method: {}".format(selection_sort(test_case)))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

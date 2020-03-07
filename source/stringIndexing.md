@@ -3,6 +3,8 @@ title: stringIndexing (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'stringIndexing'
+
 
 ## stringIndexing
 
@@ -46,3 +48,4 @@ print('You are ' + awesome[10:] + ' you are learning ' + awesome[:6])
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

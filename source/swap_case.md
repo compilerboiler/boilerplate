@@ -3,6 +3,10 @@ title: swap case (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'swap case'
+
+Functions in program: 
+* def swap_case(s):
 
 ## swap case
 
@@ -27,3 +31,4 @@ def swap_case(s):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

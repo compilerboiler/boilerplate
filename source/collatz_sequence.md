@@ -3,6 +3,13 @@ title: collatz sequence (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'collatz sequence'
+
+Functions in program: 
+* def collatz_conjecture(n):
+
+Modules used in program: 
+* import sys
 
 ## collatz sequence
 
@@ -58,3 +65,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

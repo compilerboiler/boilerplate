@@ -3,6 +3,10 @@ title: morse code decoder (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'morse code decoder'
+
+Functions in program: 
+* def decodeMorse(morseCode):
 
 ## morse code decoder
 
@@ -68,3 +72,4 @@ def decodeMorse(morseCode):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

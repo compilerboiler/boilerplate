@@ -3,6 +3,10 @@ title: insertion sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'insertion sort'
+
+Functions in program: 
+* def sort_(arr,temporary=False,reverse=False):
 
 ## insertion sort
 
@@ -93,3 +97,4 @@ for test in tests:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

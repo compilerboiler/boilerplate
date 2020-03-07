@@ -3,6 +3,8 @@ title: figure determiner (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'figure determiner'
+
 
 ## figure determiner
 
@@ -56,3 +58,4 @@ while(2==2):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

@@ -3,6 +3,11 @@ title: python star args and kwargs (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python star args and kwargs'
+
+Functions in program: 
+* def add_all_msg(*args, **kwargs):
+* def add_all(*list_of_nums):
 
 ## python star args and kwargs
 
@@ -39,3 +44,4 @@ add_all_msg(2,3,4,before='adding numbers', after='added all numbers')
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

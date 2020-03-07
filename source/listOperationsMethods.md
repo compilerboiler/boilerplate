@@ -3,6 +3,8 @@ title: listOperationsMethods (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'listOperationsMethods'
+
 
 ## listOperationsMethods
 
@@ -66,3 +68,4 @@ print(siliconValley) # this should probably give you an NameError
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

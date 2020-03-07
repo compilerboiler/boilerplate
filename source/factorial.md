@@ -3,6 +3,11 @@ title: factorial (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'factorial'
+
+Functions in program: 
+* def factorial_(n):
+* def factorial(n):
 
 ## factorial
 
@@ -72,3 +77,4 @@ else:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

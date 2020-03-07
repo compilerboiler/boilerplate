@@ -3,6 +3,13 @@ title: profitLoss (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'profitLoss'
+
+Functions in program: 
+* def lossPercent(loss , costP):
+* def profitPercent(prof , costP):
+* def loss(costP , sellP):
+* def profit(sellP , costP):
 
 ## profitLoss
 
@@ -63,3 +70,4 @@ while(True):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

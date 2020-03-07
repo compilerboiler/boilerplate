@@ -3,6 +3,10 @@ title: reverse sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'reverse sort'
+
+Functions in program: 
+* def reverse_sort(array):
 
 ## reverse sort
 
@@ -34,3 +38,4 @@ print(reverse_sort([123, 3455, 6577, 546, 345, 22, 56, 7])	)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

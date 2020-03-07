@@ -3,6 +3,15 @@ title: sleepWellAlarm (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'sleepWellAlarm'
+
+Functions in program: 
+* def alarm(h,m,s):
+
+Modules used in program: 
+* import random
+* import webbrowser
+* import datetime
 
 ## sleepWellAlarm
 
@@ -57,3 +66,4 @@ else :
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

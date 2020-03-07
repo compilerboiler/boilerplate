@@ -3,6 +3,11 @@ title: decimal to binary converter (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'decimal to binary converter'
+
+Functions in program: 
+* def decimal_to_binary(n):
+* def concat(S):
 
 ## decimal to binary converter
 
@@ -49,3 +54,4 @@ for case in cases:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

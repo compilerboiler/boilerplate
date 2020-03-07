@@ -3,6 +3,8 @@ title: python control (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python control'
+
 
 ## python control
 
@@ -57,3 +59,4 @@ for i in range(1,11, 2):
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

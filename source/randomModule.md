@@ -3,6 +3,11 @@ title: randomModule (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'randomModule'
+
+
+Modules used in program: 
+* import random
 
 ## randomModule
 
@@ -28,3 +33,4 @@ print(random.choice(colors))  # choses random element from list
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

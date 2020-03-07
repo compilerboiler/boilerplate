@@ -3,6 +3,8 @@ title: sum of arithmetic sequence (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'sum of arithmetic sequence'
+
 
 ## sum of arithmetic sequence
 
@@ -29,3 +31,4 @@ print(sum(test_sub))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

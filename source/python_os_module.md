@@ -3,6 +3,11 @@ title: python os module (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python os module'
+
+
+Modules used in program: 
+* import os
 
 ## python os module
 
@@ -29,3 +34,4 @@ print('Your system path is: ', os.getenv('PATH'))
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

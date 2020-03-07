@@ -3,6 +3,10 @@ title: discountPercent (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'discountPercent'
+
+Functions in program: 
+* def iLoveDiscount(discount , mp):  # mp is market price
 
 ## discountPercent
 
@@ -32,3 +36,4 @@ while(True):  # I've put counting discount in a loop cause if you want to count 
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

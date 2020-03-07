@@ -3,6 +3,11 @@ title: find roots (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'find roots'
+
+Functions in program: 
+* def find_roots(S, rng = [-10000, 10000]):
+* def find_variable(string):
 
 ## find roots
 
@@ -66,3 +71,4 @@ for i in result:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

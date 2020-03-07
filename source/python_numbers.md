@@ -3,6 +3,8 @@ title: python numbers (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'python numbers'
+
 
 ## python numbers
 
@@ -51,3 +53,4 @@ print('4//3 = ', 4//3)
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com

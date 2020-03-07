@@ -3,6 +3,12 @@ title: area volume calculator (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
+Python example 'area volume calculator'
+
+
+Modules used in program: 
+* import sys
+* import math
 
 ## area volume calculator
 
@@ -149,3 +155,4 @@ while True:
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+- Another Python site: https://pythonprogramminglanguage.com
