@@ -1,6 +1,7 @@
 ---
-title: python conversions
+title: python conversions (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python conversions

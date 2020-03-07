@@ -1,6 +1,7 @@
 ---
-title: python string interpolation
+title: python string interpolation (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python string interpolation

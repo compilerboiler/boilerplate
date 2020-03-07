@@ -1,6 +1,7 @@
 ---
-title: python star args and kwargs
+title: python star args and kwargs (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python star args and kwargs

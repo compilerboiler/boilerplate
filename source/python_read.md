@@ -1,6 +1,7 @@
 ---
-title: python read
+title: python read (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python read

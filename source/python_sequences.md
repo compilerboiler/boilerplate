@@ -1,6 +1,7 @@
 ---
-title: python sequences
+title: python sequences (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python sequences

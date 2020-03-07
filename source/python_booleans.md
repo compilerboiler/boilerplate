@@ -1,6 +1,7 @@
 ---
-title: python booleans
+title: python booleans (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python booleans

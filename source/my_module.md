@@ -1,6 +1,7 @@
 ---
-title: my module
+title: my module (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## my module

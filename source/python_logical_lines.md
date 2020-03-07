@@ -1,6 +1,7 @@
 ---
-title: python logical lines
+title: python logical lines (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python logical lines

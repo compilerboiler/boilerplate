@@ -1,6 +1,7 @@
 ---
-title: python control
+title: python control (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python control

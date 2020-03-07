@@ -1,6 +1,7 @@
 ---
-title: python numbers
+title: python numbers (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python numbers

@@ -1,6 +1,7 @@
 ---
-title: extra stuff
+title: extra stuff (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## extra stuff

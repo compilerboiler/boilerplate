@@ -1,6 +1,7 @@
 ---
-title: python functions
+title: python functions (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python functions

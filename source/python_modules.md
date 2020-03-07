@@ -1,6 +1,7 @@
 ---
-title: python modules
+title: python modules (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python modules

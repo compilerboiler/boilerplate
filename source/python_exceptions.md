@@ -1,6 +1,7 @@
 ---
-title: python exceptions
+title: python exceptions (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python exceptions

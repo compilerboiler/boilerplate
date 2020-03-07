@@ -1,6 +1,7 @@
 ---
-title: python objects
+title: python objects (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python objects

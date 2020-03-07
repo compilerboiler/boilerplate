@@ -1,6 +1,7 @@
 ---
-title: python lists
+title: python lists (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python lists

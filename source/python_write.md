@@ -1,6 +1,7 @@
 ---
-title: python write
+title: python write (snippet)
 date: 2019-02-07
+tags: ["python"]
 ---
 
 ## python write
