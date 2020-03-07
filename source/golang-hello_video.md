@@ -1,6 +1,6 @@
 ---
 title: Golang golang-hello video (snippet)
-date: 2019-02-07
+date: 2020-02-08
 tags: ["go"]
 ---
 Go programming example 'golang-hello video'
