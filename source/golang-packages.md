@@ -1,0 +1,34 @@
+---
+title: Golang golang-packages (snippet)
+date: 2019-02-07
+tags: ["go"]
+---
+Go programming example 'golang-packages'
+
+
+## golang-packages
+
+Golang beginners example: golang-packages
+
+```go
+package main
+
+import (
+	"./packages"                                    //import a "local" package folder (package name: foobar)
+	"fmt"                                           //import a standard package
+	"github.com/simonwaldherr/golibs/as"            //the path to the package
+	convert_to "github.com/simonwaldherr/golibs/as" //with a different name
+)
+
+func main() {
+	fmt.Println(as.String(0x23))           //access the package with the last folder name (as)
+	fmt.Println(convert_to.String(0xfefe)) //or with a self-selected name
+	fmt.Println(foobar.PublicFunc(5))      //use the functions from ./packages/foobar.go
+}
+
+```
+
+## Useful links
+
+- Learn Go: https://golangr.com
+- Download Go: https://golang.org
