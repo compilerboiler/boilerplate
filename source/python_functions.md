@@ -3,7 +3,7 @@ title: python functions (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python functions'. In Python you can create <a href="https://pythonbasics.org/functions/">function</a>, reusable code blocks. This program defines and uses several functions.
+Python example 'python functions'. In Python you can create https://pythonbasics.org/functions/ , reusable code blocks. This program defines and uses several functions.
 
 Functions in program: 
 * `def print_usage(init_msg, max_val=True, min_val=True):`
