@@ -7,8 +7,8 @@ Python example 'python modules'
 
 
 Modules used in program: 
-* import my_module
-* import sys
+* `import my_module`
+* `import sys`
 
 ## python modules
 

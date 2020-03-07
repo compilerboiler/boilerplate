@@ -9,9 +9,9 @@ Functions in program:
 * `def alarm(h,m,s):`
 
 Modules used in program: 
-* import random
-* import webbrowser
-* import datetime
+* `import random`
+* `import webbrowser`
+* `import datetime`
 
 ## sleepWellAlarm
 

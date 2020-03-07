@@ -9,7 +9,7 @@ Functions in program:
 * `def is_number_prime(number):`
 
 Modules used in program: 
-* import math as Math
+* `import math as Math`
 
 ## primeNumbers
 

@@ -9,7 +9,7 @@ Functions in program:
 * `def binary_search(arr, f, l, v, sorted_ar = False):`
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## binary search
 

@@ -10,7 +10,7 @@ Functions in program:
 * `def lower_(arr):`
 
 Modules used in program: 
-* import string 
+* `import string `
 
 ## min by alphabetical order
 

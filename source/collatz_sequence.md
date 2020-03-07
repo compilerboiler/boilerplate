@@ -9,7 +9,7 @@ Functions in program:
 * `def collatz_conjecture(n):`
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## collatz sequence
 

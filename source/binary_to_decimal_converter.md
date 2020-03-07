@@ -9,7 +9,7 @@ Functions in program:
 * `def binary_to_decimal_conv(binary_string):`
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## binary to decimal converter
 

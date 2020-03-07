@@ -9,7 +9,7 @@ Functions in program:
 * `def get_html(url , fname):`
 
 Modules used in program: 
-* import urllib
+* `import urllib`
 
 ## html source
 

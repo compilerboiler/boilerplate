@@ -7,7 +7,7 @@ Python example 'lesson3-GridCreation'
 
 
 Modules used in program: 
-* import random
+* `import random`
 
 ## lesson3-GridCreation
 

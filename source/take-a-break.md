@@ -7,8 +7,8 @@ Python example 'take-a-break'
 
 
 Modules used in program: 
-* import time
-* import webbrowser
+* `import time`
+* `import webbrowser`
 
 ## take-a-break
 

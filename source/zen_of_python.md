@@ -7,7 +7,7 @@ Python example 'zen of python'
 
 
 Modules used in program: 
-* import this
+* `import this`
 
 ## zen of python
 

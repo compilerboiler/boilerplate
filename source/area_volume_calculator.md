@@ -7,8 +7,8 @@ Python example 'area volume calculator'
 
 
 Modules used in program: 
-* import sys
-* import math
+* `import sys`
+* `import math`
 
 ## area volume calculator
 

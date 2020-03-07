@@ -9,8 +9,8 @@ Functions in program:
 * `def ping_host(host_name):`
 
 Modules used in program: 
-* import platform as plt
-* import os
+* `import platform as plt`
+* `import os`
 
 ## ping host
 

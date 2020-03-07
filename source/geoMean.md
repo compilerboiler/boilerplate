@@ -7,7 +7,7 @@ Python example 'geoMean'
 
 
 Modules used in program: 
-* import math
+* `import math`
 
 ## geoMean
 

@@ -7,8 +7,8 @@ Python example 'turtleRandomWeb'
 
 
 Modules used in program: 
-* import turtle
-* import random
+* `import turtle`
+* `import random`
 
 ## turtleRandomWeb
 

@@ -9,8 +9,8 @@ Functions in program:
 * `def create_password(n):`
 
 Modules used in program: 
-* import string
-* import random
+* `import string`
+* `import random`
 
 ## password creator
 

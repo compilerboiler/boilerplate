@@ -7,7 +7,7 @@ Python example 'randomModule'
 
 
 Modules used in program: 
-* import random
+* `import random`
 
 ## randomModule
 

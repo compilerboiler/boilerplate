@@ -11,7 +11,7 @@ Functions in program:
 * `def concat_elements(n):`
 
 Modules used in program: 
-* import string 
+* `import string `
 
 ## decrypting caesars cipher
 

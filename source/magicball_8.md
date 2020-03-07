@@ -9,7 +9,7 @@ Functions in program:
 * `def magic():`
 
 Modules used in program: 
-* import random
+* `import random`
 
 ## magicball 8
 

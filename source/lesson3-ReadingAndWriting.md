@@ -7,7 +7,7 @@ Python example 'lesson3-ReadingAndWriting'
 
 
 Modules used in program: 
-* import os
+* `import os`
 
 ## lesson3-ReadingAndWriting
 

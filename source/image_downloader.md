@@ -9,8 +9,8 @@ Functions in program:
 * `def download_image(url):`
 
 Modules used in program: 
-* import urllib.request
-* import random
+* `import urllib.request`
+* `import random`
 
 ## image downloader
 

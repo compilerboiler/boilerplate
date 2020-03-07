@@ -7,7 +7,7 @@ Python example 'rock,paper,scissor'
 
 
 Modules used in program: 
-* import random
+* `import random`
 
 ## rock,paper,scissor
 

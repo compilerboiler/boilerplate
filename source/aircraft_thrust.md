@@ -9,7 +9,7 @@ Functions in program:
 * `def thrust_props(diameter , velocity , velocity1 , density):`
 
 Modules used in program: 
-* import math
+* `import math`
 
 ## aircraft thrust
 

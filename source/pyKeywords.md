@@ -7,7 +7,7 @@ Python example 'pyKeywords'
 
 
 Modules used in program: 
-* import keyword
+* `import keyword`
 
 ## pyKeywords
 

@@ -7,7 +7,7 @@ Python example 'calculator'
 
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## calculator
 

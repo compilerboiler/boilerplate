@@ -11,9 +11,9 @@ Functions in program:
 * `def ping(host):`
 
 Modules used in program: 
-* import webbrowser
-* import sys
-* import os
+* `import webbrowser`
+* `import sys`
+* `import os`
 
 ## are you connected to world
 

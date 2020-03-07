@@ -9,7 +9,7 @@ Functions in program:
 * `def vowel_count(S):`
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## vowel count
 

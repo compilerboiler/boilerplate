@@ -9,7 +9,7 @@ Functions in program:
 * `def square():`
 
 Modules used in program: 
-* import turtle
+* `import turtle`
 
 ## squareTurtle
 

@@ -7,7 +7,7 @@ Python example 'pythagoras'
 
 
 Modules used in program: 
-* import math
+* `import math`
 
 ## pythagoras
 

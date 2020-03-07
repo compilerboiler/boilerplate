@@ -9,7 +9,7 @@ Functions in program:
 * `def pos_neg_zero(x): `
 
 Modules used in program: 
-* import sys
+* `import sys`
 
 ## number lesser greater
 

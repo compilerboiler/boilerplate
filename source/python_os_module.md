@@ -7,7 +7,7 @@ Python example 'python os module'
 
 
 Modules used in program: 
-* import os
+* `import os`
 
 ## python os module
 

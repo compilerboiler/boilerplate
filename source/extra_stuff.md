@@ -9,7 +9,7 @@ Functions in program:
 * `def say_hello(): return 'hello'`
 
 Modules used in program: 
-* import os
+* `import os`
 
 ## extra stuff
 

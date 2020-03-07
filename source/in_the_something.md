@@ -7,7 +7,7 @@ Python example 'in the something'
 
 
 Modules used in program: 
-* import random
+* `import random`
 
 ## in the something
 

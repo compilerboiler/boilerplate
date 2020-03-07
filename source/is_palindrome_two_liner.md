@@ -9,7 +9,7 @@ Functions in program:
 * `def is_palindrome(s):`
 
 Modules used in program: 
-* import string
+* `import string`
 
 ## is palindrome two liner
 

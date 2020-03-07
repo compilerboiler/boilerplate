@@ -9,7 +9,7 @@ Functions in program:
 * `def caesars_cipher_encoding(s, k, lowercase = True, uppercase = False):`
 
 Modules used in program: 
-* import string, sys
+* `import string, sys`
 
 ## caesars cipher encryption
 

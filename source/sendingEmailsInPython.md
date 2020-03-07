@@ -9,7 +9,7 @@ Functions in program:
 * `def sendMail():`
 
 Modules used in program: 
-* import smtplib
+* `import smtplib`
 
 ## sendingEmailsInPython
 

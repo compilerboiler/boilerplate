@@ -7,9 +7,9 @@ Python example 'systemInfo'
 
 
 Modules used in program: 
-* import sys
-* import os  
-* import platform  
+* `import sys`
+* `import os  `
+* `import platform  `
 
 ## systemInfo
 

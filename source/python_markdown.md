@@ -10,7 +10,7 @@ Functions in program:
 * `def read_file(name):`
 
 Modules used in program: 
-* import os
+* `import os`
 
 ## python 
 
