@@ -3,8 +3,7 @@ title: multiplicationTables (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'multiplicationTables'
-
+Python example 'multiplication Tables'. This snippet outputs multiplication tables.
 
 ## multiplicationTables
 

@@ -3,7 +3,7 @@ title: squareTurtle (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'squareTurtle'
+Python example 'squareTurtle'. Turtle lets you draw with Python, this draws a square.
 
 Functions in program: 
 * `def square():`

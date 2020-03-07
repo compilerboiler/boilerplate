@@ -3,11 +3,11 @@ title: max int in list (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'max int in list'
+Python example 'max int in list'. Finds the maximum number in a list.
 
 Functions in program: 
-* `def convert():	`
-* `def  compare(li):`
+* `def convert():`
+* `def compare(li):`
 
 ## max int in list
 
@@ -37,7 +37,7 @@ def convert():
 	return nums
 
 if __name__ == "__main__":	
-	print(compare(convert())		)
+	print(compare(convert()))
 
 ```
 

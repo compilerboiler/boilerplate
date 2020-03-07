@@ -3,8 +3,7 @@ title: python objects (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python objects'
-
+Python example 'python objects'. Python is an object orientated language, where each object is created form a class. 
 
 ## python objects
 

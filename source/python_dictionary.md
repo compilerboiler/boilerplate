@@ -3,7 +3,7 @@ title: python dictionary (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python dictionary'
+Python example 'python dictionary'. A dictionary is a colelction that contains (key, value) pairs. This example shows how to use a dictionary in Python.
 
 
 ## python dictionary

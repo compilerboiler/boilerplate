@@ -3,7 +3,7 @@ title: min (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'min'
+Python example 'min'. Min finds the minimum number in a sequence.
 
 Functions in program: 
 * `def min_(seq):`

@@ -3,8 +3,7 @@ title: python lists (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python lists'
-
+Python example 'python lists'. This snippet creates a list and then does some modification.
 
 ## python lists
 

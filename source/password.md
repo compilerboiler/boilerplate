@@ -3,8 +3,7 @@ title: password (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'password'
-
+Python example 'password'. Gets user input (password) and checks if the password is correct.
 
 ## password
 

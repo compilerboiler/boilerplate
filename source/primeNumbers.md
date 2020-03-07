@@ -3,7 +3,7 @@ title: primeNumbers (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'primeNumbers'
+Python example 'primeNumbers'. The function tests if a number is a prime number, with the function below.
 
 Functions in program: 
 * `def is_number_prime(number):`

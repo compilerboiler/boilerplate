@@ -1,10 +1,9 @@
 ---
-title: lesson3-ReadingAndWriting (snippet)
+title: Reading and writing files (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'lesson3-ReadingAndWriting'
-
+Python example 'Reading and writing'. Reads a file and writes a file with Python.
 
 Modules used in program: 
 * `import os`

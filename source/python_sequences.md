@@ -3,8 +3,7 @@ title: python sequences (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python sequences'
-
+Python example 'python sequences'. All kinds of sequences are supported in Python, like lists, tuples anad strings. This snippet uses sequences.
 
 ## python sequences
 

@@ -3,8 +3,7 @@ title: python tuples (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'python tuples'
-
+Python example 'python tuples'. Tuples are like <a href="https://pythonbasics.org/list/">lists</a>, but cannot be modified.
 
 ## python tuples
 

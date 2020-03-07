@@ -1,5 +1,5 @@
 ---
-title: lesson1-TestingBasics (snippet)
+title: Testing Basics (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---

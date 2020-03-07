@@ -3,8 +3,7 @@ title: rock,paper,scissor (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'rock,paper,scissor'
-
+Python example 'rock,paper,scissor'. This lets you play the little game 'rock, paper, scissor' in Python.
 
 Modules used in program: 
 * `import random`

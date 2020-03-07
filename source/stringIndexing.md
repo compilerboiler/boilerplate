@@ -3,8 +3,7 @@ title: stringIndexing (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'stringIndexing'
-
+Python example 'string indexing'. Beginner example that uses string slicing and indices.
 
 ## stringIndexing
 

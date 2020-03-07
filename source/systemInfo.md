@@ -3,8 +3,7 @@ title: systemInfo (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'systemInfo'
-
+Python example 'system info'. This snippet outputs some system information.
 
 Modules used in program: 
 * `import sys`

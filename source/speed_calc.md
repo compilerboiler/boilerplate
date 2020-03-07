@@ -3,8 +3,7 @@ title: speed calc (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'speed calc'
-
+Python example 'speed calc'. This program calculates the speed, given time and distance.
 
 ## speed calc
 

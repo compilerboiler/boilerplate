@@ -3,8 +3,7 @@ title: palindrome checker (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'palindrome checker'
-
+Python example 'palindrome checker'. This checks if a string is a palindrome, a palindrome reads the same both ways.
 
 ## palindrome checker
 

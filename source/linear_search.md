@@ -3,7 +3,7 @@ title: linear search (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'linear search'
+Python example 'linear search'. This program is an example of the linear search algorithm.
 
 Functions in program: 
 * `def linear_search(array, to_find):`

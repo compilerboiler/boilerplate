@@ -3,7 +3,7 @@ title: html source (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'html source'
+Python example 'html source'. This program grabs a webpage source using the function get_html(). HTML is the language that defines a websites markup.
 
 Functions in program: 
 * `def get_html(url , fname):`

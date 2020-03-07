@@ -3,7 +3,7 @@ title: profitLoss (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'profitLoss'
+Python example 'profit Loss'. This snippet does basic profit loss calculation.
 
 Functions in program: 
 * `def lossPercent(loss , costP):`

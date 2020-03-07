@@ -3,8 +3,7 @@ title: star turtle (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'star turtle'
-
+Python example 'star turtle'. This program draws a star using the turtle module.
 
 ## star turtle
 

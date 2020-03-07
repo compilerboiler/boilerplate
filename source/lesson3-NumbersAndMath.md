@@ -1,5 +1,5 @@
 ---
-title: lesson3-NumbersAndMath (snippet)
+title: "Numbers and math (snippet)"
 date: 2019-02-07
 tags: ["python"]
 ---

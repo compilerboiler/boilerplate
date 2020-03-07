@@ -3,7 +3,7 @@ title: insertion sort (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'insertion sort'
+Python example 'insertion sort'. This is a demo of the insertion sorting algorithm in Python.
 
 Functions in program: 
 * `def sort_(arr,temporary=False,reverse=False):`

@@ -3,8 +3,7 @@ title: lesson2-NimGame (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'lesson2-NimGame'
-
+Python example 'lesson2-NimGame'. A little game made in the Python language.
 
 ## lesson2-NimGame
 

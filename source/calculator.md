@@ -3,7 +3,7 @@ title: calculator (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'calculator'
+Python example 'calculator'. Nothing but a simple calculator.
 
 
 Modules used in program: 

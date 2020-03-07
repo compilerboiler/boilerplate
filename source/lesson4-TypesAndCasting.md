@@ -3,8 +3,7 @@ title: lesson4-TypesAndCasting (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'lesson4-TypesAndCasting'
-
+Python example 'Types and Casting'. Variables have a data type, conversion between the data types is called casting.
 
 ## lesson4-TypesAndCasting
 

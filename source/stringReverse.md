@@ -3,8 +3,7 @@ title: stringReverse (snippet)
 date: 2019-02-07
 tags: ["python"]
 ---
-Python example 'stringReverse'
-
+Python example 'stringReverse'. Given a string (keyboard input), it reverses the string.
 
 ## stringReverse
 
@@ -17,9 +16,6 @@ Python beginners example: stringReverse
 getString = str(input('Word to Reverse : '))
 reverseString = getString[::-1] # [::-1] tells to step from end without difference
 print(reverseString)
-
-	 
-
 ```
 
 ## Useful links
