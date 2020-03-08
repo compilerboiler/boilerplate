@@ -1,6 +1,6 @@
 ---
 title: tkinter example 14-justify-anchor-text (snippet)
-date: 2019-02-08
+date: 2020-02-02
 tags: ["python"]
 ---
 Python tkinter (gui) example '14-justify-anchor-text'

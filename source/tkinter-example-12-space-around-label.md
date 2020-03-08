@@ -1,6 +1,6 @@
 ---
 title: tkinter example 12-space-around-label (snippet)
-date: 2019-02-08
+date: 2020-02-02
 tags: ["python"]
 ---
 Python tkinter (gui) example '12-space-around-label'

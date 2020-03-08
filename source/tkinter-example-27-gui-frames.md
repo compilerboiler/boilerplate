@@ -1,6 +1,6 @@
 ---
 title: tkinter example 27-gui-frames (snippet)
-date: 2019-02-08
+date: 2020-02-02
 tags: ["python"]
 ---
 Python tkinter (gui) example '27-gui-frames'
