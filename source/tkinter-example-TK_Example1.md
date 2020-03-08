@@ -1,6 +1,6 @@
 ---
 title: tkinter example TK Example1 (snippet)
-date: 2020-02-02
+date: 2020-02-09
 tags: ["python"]
 ---
 Python tkinter (gui) example 'TK Example1'

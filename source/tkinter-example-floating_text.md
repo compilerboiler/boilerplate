@@ -1,6 +1,6 @@
 ---
 title: tkinter example floating text (snippet)
-date: 2020-02-02
+date: 2020-02-09
 tags: ["python"]
 ---
 Python tkinter (gui) example 'floating text'

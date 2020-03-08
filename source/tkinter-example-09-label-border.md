@@ -1,6 +1,6 @@
 ---
 title: tkinter example 09-label-border (snippet)
-date: 2020-02-02
+date: 2020-02-09
 tags: ["python"]
 ---
 Python tkinter (gui) example '09-label-border'
