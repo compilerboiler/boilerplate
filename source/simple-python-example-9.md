@@ -1,6 +1,6 @@
 ---
 title: simple python-example-9 (snippet)
-date: 2020-02-10
+date: 2020-02-11
 tags: ["python"]
 ---
 Python example 'python-example-9'
@@ -22,7 +22,7 @@ import time
 myD = {1: 'a', 2: 'b'}
 for key, value in dict.items(myD):
 	print(key, value)
-	time.sleep(1)
+	time.sleep(1) # 暂停 1 秒
 
 
 ```

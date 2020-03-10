@@ -1,6 +1,6 @@
 ---
 title: simple python-example-19 (snippet)
-date: 2020-02-10
+date: 2020-02-11
 tags: ["python"]
 ---
 Python example 'python-example-19'

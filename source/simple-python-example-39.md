@@ -1,6 +1,6 @@
 ---
 title: simple python-example-39 (snippet)
-date: 2020-02-10
+date: 2020-02-11
 tags: ["python"]
 ---
 Python example 'python-example-39'
@@ -15,6 +15,7 @@ Python example: python-example-39
 # -*- coding: UTF-8 -*-
 
 if __name__ == '__main__':
+    # 方法一
     a = [1,4,6,9,13,16,19,28,40,100,0]
     print('original list is:')
     for i in range(len(a)):
@@ -35,6 +36,7 @@ if __name__ == '__main__':
                 break
     for i in range(11):
         print(a[i])
+
 
 ```
 
