@@ -1,0 +1,67 @@
+---
+title: simple Example1InputBox (snippet)
+date: 2020-02-12
+tags: ["python"]
+---
+Python web automation, selenium example 'Example1InputBox'
+
+
+Modules used in program: 
+* `import time`
+* `import unittest`
+
+## Example1InputBox
+
+Python selenium example: Example1InputBox
+
+```python
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import unittest
+import time
+
+
+class Example(unittest.TestCase):
+
+    def setUp(self):
+        self.driver = webdriver.Chrome("C:\\Users\\benpe\\DevMountain\\testing-resources\\chromedriver.exe")
+        self.driver.implicitly_wait(20)
+        self.driver.set_page_load_timeout(20)
+        self.driver.maximize_window()
+
+    def tearDown(self):
+        self.driver.close()
+
+    def test_challenge(self):
+        self.driver.get("https://fs2.formsite.com/meherpavan/form2/index.html?1537702596407")
+        self.driver.implicitly_wait(10)
+
+        #finding out how many input boxes there are
+        inputboxes = self.driver.find_elements(By.CLASS_NAME, 'text_field')
+        print(len(inputboxes))
+
+        #finding the status of the display input
+        status = self.driver.find_element(By.ID, 'RESULT_TextField-1').is_displayed()
+        print("Displayed: ", status)
+
+        #finding the status of the enabled input
+        status2 = self.driver.find_element(By.ID, 'RESULT_TextField-1').is_enabled()
+        print("Enabled: ", status2)
+
+        #inserting information to the input box (text field)
+        self.driver.find_element(By.ID, 'RESULT_TextField-1').send_keys("Daniel")
+        self.driver.find_element(By.ID, 'RESULT_TextField-2').send_keys("Peng")
+        self.driver.find_element_by_id("RESULT_TextField-3").send_keys("1234567890")
+        time.sleep(5)
+
+
+if __name__ == '__main__':
+    unittest.main()
+
+
+```
+
+## Useful links
+
+- Learn Python: https://pythonbasics.org/
+- More Python: https://pythonprogramminglanguage.com

@@ -1,0 +1,69 @@
+---
+title: simple Example6Frames (snippet)
+date: 2020-02-12
+tags: ["python"]
+---
+Python web automation, selenium example 'Example6Frames'
+
+
+Modules used in program: 
+* `import time`
+* `import unittest`
+
+## Example6Frames
+
+Python selenium example: Example6Frames
+
+```python
+from selenium import webdriver
+import unittest
+import time
+
+
+class Example(unittest.TestCase):
+
+    def setUp(self):
+        self.driver = webdriver.Chrome("C:\\Users\\benpe\\DevMountain\\testing-resources\\chromedriver.exe")
+        self.driver.implicitly_wait(20)
+        self.driver.set_page_load_timeout(20)
+        self.driver.maximize_window()
+
+    def tearDown(self):
+        self.driver.close()
+
+    def test_challenge(self):
+        self.driver.get("https://seleniumhq.github.io/selenium/docs/api/java/index.html")
+        self.driver.implicitly_wait(10)
+
+        #1st frame
+        self.driver.switch_to_frame("packageListFrame")
+        self.driver.find_element_by_link_text("org.openqa.selenium").click()
+        #we need this to work
+        self.driver.switch_to.default_content()
+
+        #2nd frame
+        self.driver.switch_to_frame("packageFrame")
+        self.driver.find_element_by_link_text("WebDriver").click()
+        self.driver.switch_to_default_content()
+
+        #3rd frame
+        self.driver.switch_to_frame("classFrame")
+        #link text didn't work so I swtiched to Xpath
+        self.driver.find_element_by_xpath('(//a[@href="package-summary.html"])[1]').click()
+
+
+
+
+
+        time.sleep(3)
+
+if __name__ == '__main__':
+    unittest.main()
+
+
+```
+
+## Useful links
+
+- Learn Python: https://pythonbasics.org/
+- More Python: https://pythonprogramminglanguage.com
