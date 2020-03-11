@@ -1,6 +1,6 @@
 ---
-title: simple exercise5 (snippet)
-date: 2020-02-12
+title: selenium exercise5 (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'exercise5'

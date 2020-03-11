@@ -1,6 +1,6 @@
 ---
-title: simple FindElements (snippet)
-date: 2020-02-12
+title: selenium FindElements (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'FindElements'

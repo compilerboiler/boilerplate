@@ -1,6 +1,6 @@
 ---
-title: simple SwitchToAlert (snippet)
-date: 2020-02-12
+title: selenium SwitchToAlert (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'SwitchToAlert'

@@ -1,6 +1,6 @@
 ---
-title: simple baidu image spider (snippet)
-date: 2020-02-12
+title: selenium baidu image spider (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'baidu image spider'

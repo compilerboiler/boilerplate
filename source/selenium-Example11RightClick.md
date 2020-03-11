@@ -1,6 +1,6 @@
 ---
-title: simple Example11RightClick (snippet)
-date: 2020-02-12
+title: selenium Example11RightClick (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'Example11RightClick'

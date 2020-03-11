@@ -1,6 +1,6 @@
 ---
-title: simple zendeskLogin (snippet)
-date: 2020-02-12
+title: selenium zendeskLogin (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'zendeskLogin'

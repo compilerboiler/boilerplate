@@ -1,6 +1,6 @@
 ---
-title: simple testcase1 (snippet)
-date: 2020-02-12
+title: selenium testcase1 (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'testcase1'

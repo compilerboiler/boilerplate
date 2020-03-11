@@ -1,6 +1,6 @@
 ---
-title: simple Example9MouseHover (snippet)
-date: 2020-02-12
+title: selenium Example9MouseHover (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'Example9MouseHover'

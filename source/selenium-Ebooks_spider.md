@@ -1,6 +1,6 @@
 ---
-title: simple Ebooks spider (snippet)
-date: 2020-02-12
+title: selenium Ebooks spider (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'Ebooks spider'

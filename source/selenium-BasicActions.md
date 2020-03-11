@@ -1,6 +1,6 @@
 ---
-title: simple BasicActions (snippet)
-date: 2020-02-12
+title: selenium BasicActions (snippet)
+date: 2020-02-13
 tags: ["python"]
 ---
 Python web automation, selenium example 'BasicActions'
