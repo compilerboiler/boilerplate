@@ -1,17 +1,17 @@
 ---
-title: python code python-code-execution-time (snippet)
+title: python-code-execution-time (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-execution-time'
+Python example 'python-code-execution-time'
 
 
 Modules used in program: 
 * `import time`
 
-## python code python-code-execution-time
+## python-code-execution-time
 
-Python code example: python code python-code-execution-time
+Python code example: python-code-execution-time
 
 ```python
 #Calculate time taken to execute a piece of code

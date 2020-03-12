@@ -1,14 +1,14 @@
 ---
-title: python code python-code-sort-list-of-dictionaries (snippet)
+title: python-code-sort-list-of-dictionaries (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-sort-list-of-dictionaries'
+Python example 'python-code-sort-list-of-dictionaries'
 
 
-## python code python-code-sort-list-of-dictionaries
+## python-code-sort-list-of-dictionaries
 
-Python code example: python code python-code-sort-list-of-dictionaries
+Python code example: python-code-sort-list-of-dictionaries
 
 ```python
 csv_mapping_list = [

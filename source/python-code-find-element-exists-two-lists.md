@@ -1,16 +1,16 @@
 ---
-title: python code python-code-find-element-exists-two-lists (snippet)
+title: python-code-find-element-exists-two-lists (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-find-element-exists-two-lists'
+Python example 'python-code-find-element-exists-two-lists'
 
 Functions in program: 
 * `def union(a,b):`
 
-## python code python-code-find-element-exists-two-lists
+## python-code-find-element-exists-two-lists
 
-Python code example: python code python-code-find-element-exists-two-lists
+Python code example: python-code-find-element-exists-two-lists
 
 ```python
 

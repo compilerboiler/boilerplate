@@ -1,14 +1,14 @@
 ---
-title: python code python-code-swap-values-between-two-variables (snippet)
+title: python-code-swap-values-between-two-variables (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-swap-values-between-two-variables'
+Python example 'python-code-swap-values-between-two-variables'
 
 
-## python code python-code-swap-values-between-two-variables
+## python-code-swap-values-between-two-variables
 
-Python code example: python code python-code-swap-values-between-two-variables
+Python code example: python-code-swap-values-between-two-variables
 
 ```python
 

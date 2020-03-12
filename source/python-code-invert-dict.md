@@ -1,14 +1,14 @@
 ---
-title: python code python-code-invert-dict (snippet)
+title: python-code-invert-dict (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-invert-dict'
+Python example 'python-code-invert-dict'
 
 
-## python code python-code-invert-dict
+## python-code-invert-dict
 
-Python code example: python code python-code-invert-dict
+Python code example: python-code-invert-dict
 
 ```python
 my_dict = {

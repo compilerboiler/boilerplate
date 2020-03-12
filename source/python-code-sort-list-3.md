@@ -1,14 +1,14 @@
 ---
-title: python code python-code-sort-list-3 (snippet)
+title: python-code-sort-list-3 (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-sort-list-3'
+Python example 'python-code-sort-list-3'
 
 
-## python code python-code-sort-list-3
+## python-code-sort-list-3
 
-Python code example: python code python-code-sort-list-3
+Python code example: python-code-sort-list-3
 
 ```python
 my_list = ["leaf", "cherry", "fish"]

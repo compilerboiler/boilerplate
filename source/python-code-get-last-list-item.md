@@ -1,14 +1,14 @@
 ---
-title: python code python-code-get-last-list-item (snippet)
+title: python-code-get-last-list-item (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-get-last-list-item'
+Python example 'python-code-get-last-list-item'
 
 
-## python code python-code-get-last-list-item
+## python-code-get-last-list-item
 
-Python code example: python code python-code-get-last-list-item
+Python code example: python-code-get-last-list-item
 
 ```python
 my_list = ['red', 'blue', 'green']

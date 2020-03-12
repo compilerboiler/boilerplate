@@ -1,14 +1,14 @@
 ---
-title: python code python-code-track-frequency-of-elements (snippet)
+title: python-code-track-frequency-of-elements (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-track-frequency-of-elements'
+Python example 'python-code-track-frequency-of-elements'
 
 
-## python code python-code-track-frequency-of-elements
+## python-code-track-frequency-of-elements
 
-Python code example: python code python-code-track-frequency-of-elements
+Python code example: python-code-track-frequency-of-elements
 
 ```python
 #Track frequency of elements in a list

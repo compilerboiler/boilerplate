@@ -1,14 +1,14 @@
 ---
-title: python code python-code-check-list-empty (snippet)
+title: python-code-check-list-empty (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-check-list-empty'
+Python example 'python-code-check-list-empty'
 
 
-## python code python-code-check-list-empty
+## python-code-check-list-empty
 
-Python code example: python code python-code-check-list-empty
+Python code example: python-code-check-list-empty
 
 ```python
 my_list = list()

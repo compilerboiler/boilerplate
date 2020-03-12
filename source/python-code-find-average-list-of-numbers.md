@@ -1,16 +1,16 @@
 ---
-title: python code python-code-find-average-list-of-numbers (snippet)
+title: python-code-find-average-list-of-numbers (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-find-average-list-of-numbers'
+Python example 'python-code-find-average-list-of-numbers'
 
 Functions in program: 
 * `def average(*args):`
 
-## python code python-code-find-average-list-of-numbers
+## python-code-find-average-list-of-numbers
 
-Python code example: python code python-code-find-average-list-of-numbers
+Python code example: python-code-find-average-list-of-numbers
 
 ```python
 

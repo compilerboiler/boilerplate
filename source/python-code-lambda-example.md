@@ -1,14 +1,14 @@
 ---
-title: python code python-code-lambda-example (snippet)
+title: python-code-lambda-example (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-lambda-example'
+Python example 'python-code-lambda-example'
 
 
-## python code python-code-lambda-example
+## python-code-lambda-example
 
-Python code example: python code python-code-lambda-example
+Python code example: python-code-lambda-example
 
 ```python
 #Use lambda functions

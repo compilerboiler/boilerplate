@@ -1,9 +1,9 @@
 ---
-title: python code python-code-test-performance (snippet)
+title: python-code-test-performance (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-test-performance'
+Python example 'python-code-test-performance'
 
 
 Modules used in program: 
@@ -11,9 +11,9 @@ Modules used in program:
 * `import timeit`
 * `import datetime`
 
-## python code python-code-test-performance
+## python-code-test-performance
 
-Python code example: python code python-code-test-performance
+Python code example: python-code-test-performance
 
 ```python
 # Brute force solution

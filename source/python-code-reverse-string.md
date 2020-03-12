@@ -1,14 +1,14 @@
 ---
-title: python code python-code-reverse-string (snippet)
+title: python-code-reverse-string (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-reverse-string'
+Python example 'python-code-reverse-string'
 
 
-## python code python-code-reverse-string
+## python-code-reverse-string
 
-Python code example: python code python-code-reverse-string
+Python code example: python-code-reverse-string
 
 ```python
 #Reverse a string

@@ -1,14 +1,14 @@
 ---
-title: python code python-code-format-string (snippet)
+title: python-code-format-string (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-format-string'
+Python example 'python-code-format-string'
 
 
-## python code python-code-format-string
+## python-code-format-string
 
-Python code example: python code python-code-format-string
+Python code example: python-code-format-string
 
 ```python
 name = "Jeremy"

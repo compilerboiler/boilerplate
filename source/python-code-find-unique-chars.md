@@ -1,14 +1,14 @@
 ---
-title: python code python-code-find-unique-chars (snippet)
+title: python-code-find-unique-chars (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-find-unique-chars'
+Python example 'python-code-find-unique-chars'
 
 
-## python code python-code-find-unique-chars
+## python-code-find-unique-chars
 
-Python code example: python code python-code-find-unique-chars
+Python code example: python-code-find-unique-chars
 
 ```python
 

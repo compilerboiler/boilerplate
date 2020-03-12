@@ -1,16 +1,16 @@
 ---
-title: python code python-code-merge-dictionaries (snippet)
+title: python-code-merge-dictionaries (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-merge-dictionaries'
+Python example 'python-code-merge-dictionaries'
 
 Functions in program: 
 * `def merge_dicts(*dicts: dict): `
 
-## python code python-code-merge-dictionaries
+## python-code-merge-dictionaries
 
-Python code example: python code python-code-merge-dictionaries
+Python code example: python-code-merge-dictionaries
 
 ```python
 yusuke_power = {"Yusuke Urameshi": "Spirit Gun"}

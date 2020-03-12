@@ -1,18 +1,18 @@
 ---
-title: python code python-code-sum-elements-two-lists (snippet)
+title: python-code-sum-elements-two-lists (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-sum-elements-two-lists'
+Python example 'python-code-sum-elements-two-lists'
 
 
 Modules used in program: 
 * `import numpy as np `
 * `import operator `
 
-## python code python-code-sum-elements-two-lists
+## python-code-sum-elements-two-lists
 
-Python code example: python code python-code-sum-elements-two-lists
+Python code example: python-code-sum-elements-two-lists
 
 ```python
 ethernet_devices = [1, [7], [2], [8374163], [84302738]]

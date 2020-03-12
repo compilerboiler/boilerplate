@@ -1,14 +1,14 @@
 ---
-title: python code python-code-list-comprehensions (snippet)
+title: python-code-list-comprehensions (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-list-comprehensions'
+Python example 'python-code-list-comprehensions'
 
 
-## python code python-code-list-comprehensions
+## python-code-list-comprehensions
 
-Python code example: python code python-code-list-comprehensions
+Python code example: python-code-list-comprehensions
 
 ```python
 

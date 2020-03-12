@@ -1,14 +1,14 @@
 ---
-title: python code python-code-immutable-data-type-2 (snippet)
+title: python-code-immutable-data-type-2 (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-immutable-data-type-2'
+Python example 'python-code-immutable-data-type-2'
 
 
-## python code python-code-immutable-data-type-2
+## python-code-immutable-data-type-2
 
-Python code example: python code python-code-immutable-data-type-2
+Python code example: python-code-immutable-data-type-2
 
 ```python
 >>> # Lists (mutable)

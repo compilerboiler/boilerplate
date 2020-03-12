@@ -1,14 +1,14 @@
 ---
-title: python code python-code-first-class-functions (snippet)
+title: python-code-first-class-functions (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-first-class-functions'
+Python example 'python-code-first-class-functions'
 
 
-## python code python-code-first-class-functions
+## python-code-first-class-functions
 
-Python code example: python code python-code-first-class-functions
+Python code example: python-code-first-class-functions
 
 ```python
 >>> def f(function, *arguments):

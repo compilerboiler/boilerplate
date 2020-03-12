@@ -1,14 +1,14 @@
 ---
-title: python code python-code-anonymous-functions (snippet)
+title: python-code-anonymous-functions (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-anonymous-functions'
+Python example 'python-code-anonymous-functions'
 
 
-## python code python-code-anonymous-functions
+## python-code-anonymous-functions
 
-Python code example: python code python-code-anonymous-functions
+Python code example: python-code-anonymous-functions
 
 ```python
 >>> lambda x, y: x + y

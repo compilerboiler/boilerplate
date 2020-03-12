@@ -1,14 +1,14 @@
 ---
-title: python code python-code-list-of-strings-into-string (snippet)
+title: python-code-list-of-strings-into-string (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-list-of-strings-into-string'
+Python example 'python-code-list-of-strings-into-string'
 
 
-## python code python-code-list-of-strings-into-string
+## python-code-list-of-strings-into-string
 
-Python code example: python code python-code-list-of-strings-into-string
+Python code example: python-code-list-of-strings-into-string
 
 ```python
 # Combine a list of strings into a single string

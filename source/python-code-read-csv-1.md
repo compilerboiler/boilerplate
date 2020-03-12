@@ -1,14 +1,14 @@
 ---
-title: python code python-code-read-csv-1 (snippet)
+title: python-code-read-csv-1 (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python code python-code-read-csv-1'
+Python example 'python-code-read-csv-1'
 
 
-## python code python-code-read-csv-1
+## python-code-read-csv-1
 
-Python code example: python code python-code-read-csv-1
+Python code example: python-code-read-csv-1
 
 ```python
 # Brute force solution
