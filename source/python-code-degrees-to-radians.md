@@ -1,6 +1,6 @@
 ---
 title: python code python-code-degrees-to-radians (snippet)
-date: 2019-02-08
+date: 2019-02-15
 tags: ["python"]
 ---
 Python example 'python code python-code-degrees-to-radians'
