@@ -1,6 +1,6 @@
 ---
 title: python code python-code-print-on-same-line (snippet)
-date: 2019-02-15
+date: 2020-02-15
 tags: ["python"]
 ---
 Python example 'python code python-code-print-on-same-line'
