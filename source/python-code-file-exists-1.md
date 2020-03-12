@@ -1,14 +1,14 @@
 ---
-title: python-code-file-exists-1 (snippet)
+title: python code file exists 1 (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-file-exists-1'
+Python example 'python code file exists 1'
 
 
-## python-code-file-exists-1
+## python code file exists 1
 
-Python code example: python-code-file-exists-1
+Python code example: python code file exists 1
 
 ```python
 # Brute force with a try-except block (Python 3+)

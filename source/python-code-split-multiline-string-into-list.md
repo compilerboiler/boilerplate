@@ -1,16 +1,16 @@
 ---
-title: python-code-split-multiline-string-into-list (snippet)
+title: python code split multiline string into list (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-split-multiline-string-into-list'
+Python example 'python code split multiline string into list'
 
 Functions in program: 
 * `def split_lines(s):`
 
-## python-code-split-multiline-string-into-list
+## python code split multiline string into list
 
-Python code example: python-code-split-multiline-string-into-list
+Python code example: python code split multiline string into list
 
 ```python
 #Split a multiline string into a list of lines

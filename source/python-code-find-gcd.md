@@ -1,9 +1,9 @@
 ---
-title: python-code-find-gcd (snippet)
+title: python code find gcd (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-find-gcd'
+Python example 'python code find gcd'
 
 Functions in program: 
 * `def gcd(numbers):`
@@ -11,9 +11,9 @@ Functions in program:
 Modules used in program: 
 * `import math`
 
-## python-code-find-gcd
+## python code find gcd
 
-Python code example: python-code-find-gcd
+Python code example: python code find gcd
 
 ```python
 # Find gcd of a list of numbers

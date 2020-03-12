@@ -1,16 +1,16 @@
 ---
-title: python-code-map-functions (snippet)
+title: python code map functions (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-map-functions'
+Python example 'python code map functions'
 
 Functions in program: 
 * `def multiply(n): `
 
-## python-code-map-functions
+## python code map functions
 
-Python code example: python-code-map-functions
+Python code example: python code map functions
 
 ```python
 

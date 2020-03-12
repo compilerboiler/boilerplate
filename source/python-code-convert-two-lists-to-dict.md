@@ -1,14 +1,14 @@
 ---
-title: python-code-convert-two-lists-to-dict (snippet)
+title: python code convert two lists to dict (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-convert-two-lists-to-dict'
+Python example 'python code convert two lists to dict'
 
 
-## python-code-convert-two-lists-to-dict
+## python code convert two lists to dict
 
-Python code example: python-code-convert-two-lists-to-dict
+Python code example: python code convert two lists to dict
 
 ```python
 column_names = ['id', 'color', 'style']

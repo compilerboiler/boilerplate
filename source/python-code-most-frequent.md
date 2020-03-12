@@ -1,16 +1,16 @@
 ---
-title: python-code-most-frequent (snippet)
+title: python code most frequent (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-most-frequent'
+Python example 'python code most frequent'
 
 Functions in program: 
 * `def most_frequent(list):`
 
-## python-code-most-frequent
+## python code most frequent
 
-Python code example: python-code-most-frequent
+Python code example: python code most frequent
 
 ```python
 #Find the most frequent element in a list

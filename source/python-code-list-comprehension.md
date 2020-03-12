@@ -1,16 +1,16 @@
 ---
-title: python-code-list-comprehension (snippet)
+title: python code list comprehension (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-list-comprehension'
+Python example 'python code list comprehension'
 
 Functions in program: 
 * `def deep_copy(to_copy): `
 
-## python-code-list-comprehension
+## python code list comprehension
 
-Python code example: python-code-list-comprehension
+Python code example: python code list comprehension
 
 ```python
 # Define a generic 1D list of constants

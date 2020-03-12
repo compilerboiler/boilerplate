@@ -1,16 +1,16 @@
 ---
-title: python-code-check-if-the-number-is-even (snippet)
+title: python code check if the number is even (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-check-if-the-number-is-even'
+Python example 'python code check if the number is even'
 
 Functions in program: 
 * `def is_even(num):`
 
-## python-code-check-if-the-number-is-even
+## python code check if the number is even
 
-Python code example: python-code-check-if-the-number-is-even
+Python code example: python code check if the number is even
 
 ```python
 #Check if the given number is even

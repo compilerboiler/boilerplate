@@ -1,16 +1,16 @@
 ---
-title: python-code-find-unique-element (snippet)
+title: python code find unique element (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-find-unique-element'
+Python example 'python code find unique element'
 
 Functions in program: 
 * `def unique_elements(numbers):`
 
-## python-code-find-unique-element
+## python code find unique element
 
-Python code example: python-code-find-unique-element
+Python code example: python code find unique element
 
 ```python
 # Find all the unique elements present in a given list

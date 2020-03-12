@@ -1,17 +1,17 @@
 ---
-title: python-code-clone-list (snippet)
+title: python code clone list (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-clone-list'
+Python example 'python code clone list'
 
 
 Modules used in program: 
 * `import copy`
 
-## python-code-clone-list
+## python code clone list
 
-Python code example: python-code-clone-list
+Python code example: python code clone list
 
 ```python
 my_list = [27, 13, -11, 60, 39, 15]

@@ -1,9 +1,9 @@
 ---
-title: python-code-degrees-to-radians (snippet)
+title: python code degrees to radians (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-degrees-to-radians'
+Python example 'python code degrees to radians'
 
 Functions in program: 
 * `def degrees_to_radians(deg):`
@@ -11,9 +11,9 @@ Functions in program:
 Modules used in program: 
 * `import math`
 
-## python-code-degrees-to-radians
+## python code degrees to radians
 
-Python code example: python-code-degrees-to-radians
+Python code example: python code degrees to radians
 
 ```python
 

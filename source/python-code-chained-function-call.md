@@ -1,17 +1,17 @@
 ---
-title: python-code-chained-function-call (snippet)
+title: python code chained function call (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-chained-function-call'
+Python example 'python code chained function call'
 
 Functions in program: 
 * `def subtract(a, b):   `
 * `def add(a, b):`
 
-## python-code-chained-function-call
+## python code chained function call
 
-Python code example: python-code-chained-function-call
+Python code example: python code chained function call
 
 ```python
 #Use chained function call

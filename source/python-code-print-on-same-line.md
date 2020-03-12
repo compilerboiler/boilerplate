@@ -1,17 +1,17 @@
 ---
-title: python-code-print-on-same-line (snippet)
+title: python code print on same line (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-print-on-same-line'
+Python example 'python code print on same line'
 
 
 Modules used in program: 
 * `import sys`
 
-## python-code-print-on-same-line
+## python code print on same line
 
-Python code example: python-code-print-on-same-line
+Python code example: python code print on same line
 
 ```python
 # Python 2 only

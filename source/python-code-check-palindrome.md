@@ -1,16 +1,16 @@
 ---
-title: python-code-check-palindrome (snippet)
+title: python code check palindrome (snippet)
 date: 2020-02-15
 tags: ["python"]
 ---
-Python example 'python-code-check-palindrome'
+Python example 'python code check palindrome'
 
 Functions in program: 
 * `def palindrome(string):`
 
-## python-code-check-palindrome
+## python code check palindrome
 
-Python code example: python-code-check-palindrome
+Python code example: python code check palindrome
 
 ```python
 #Check if a string is a palindrome
