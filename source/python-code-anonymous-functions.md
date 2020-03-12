@@ -1,0 +1,27 @@
+---
+title: python code python-code-anonymous-functions (snippet)
+date: 2019-02-08
+tags: ["python"]
+---
+Python example 'python code python-code-anonymous-functions'
+
+
+## python code python-code-anonymous-functions
+
+Python code example: python code python-code-anonymous-functions
+
+```python
+>>> lambda x, y: x + y
+>>>
+>>> f = lambda x, y: x + y
+>>> def g(x, y):
+return x + y
+
+
+```
+
+## Useful links
+
+- Learn Python: https://pythonbasics.org
+- Download Python: https://python.org
+More Python: https://pythonprogramminglanguage.com

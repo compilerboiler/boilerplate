@@ -1,0 +1,52 @@
+---
+title: python code python-code-first-class-functions (snippet)
+date: 2019-02-08
+tags: ["python"]
+---
+Python example 'python code python-code-first-class-functions'
+
+
+## python code python-code-first-class-functions
+
+Python code example: python code python-code-first-class-functions
+
+```python
+>>> def f(function, *arguments):
+return function(*arguments)
+
+>>> f(max, 1, 2, 4, 8, 16)
+16
+>>>
+>>> list(map(abs, [-2, -1, 0, 1, 2]))
+[2, 1, 0, 1, 2]
+>>>
+>>> [abs(item) for item in [-2, -1, 0, 1, 2]]
+[2, 1, 0, 1, 2]
+>>>
+>>> list(map(lambda item: 2 * item, [-2, -1, 0, 1, 2]))
+[-4, -2, 0, 2, 4]
+>>>
+>>> [2 * item for item in [-2, -1, 0, 1, 2]]
+[-4, -2, 0, 2, 4]
+>>>
+>>> list(filter(lambda item: item >= 0, [-2, -1, 0, 1, 2]))
+[0, 1, 2]
+>>>
+>>> [item for item in [-2, -1, 0, 1, 2] if item >= 0]
+[0, 1, 2]
+>>>
+>>> import functools
+>>>
+>>> functools.reduce(lambda x, y: x + y, [1, 2, 4, 8, 16])
+31
+>>>
+
+
+
+```
+
+## Useful links
+
+- Learn Python: https://pythonbasics.org
+- Download Python: https://python.org
+More Python: https://pythonprogramminglanguage.com
