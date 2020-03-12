@@ -43,4 +43,5 @@ my_duplicate_list = my_list * 1 # do not do this
 
 - Learn Python: https://pythonbasics.org
 - Download Python: https://python.org
+
 More Python: https://pythonprogramminglanguage.com
