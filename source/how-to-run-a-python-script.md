@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: how to run a python script
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: how to run a python script

@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: read csv in python
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: read csv in python

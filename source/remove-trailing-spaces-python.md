@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: remove trailing spaces python
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: remove trailing spaces python

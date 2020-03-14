@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: things you must know about python strings
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: things you must know about python strings

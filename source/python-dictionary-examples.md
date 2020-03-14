@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: python dictionary examples
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: python dictionary examples

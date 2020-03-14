@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: what is pip python
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: what is pip python

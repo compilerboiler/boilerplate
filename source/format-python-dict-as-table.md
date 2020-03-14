@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: format python dict as table
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: format python dict as table

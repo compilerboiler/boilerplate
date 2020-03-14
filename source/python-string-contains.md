@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: python string contains
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: python string contains

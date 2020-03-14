@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: data analysis with python pandas
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: data analysis with python pandas

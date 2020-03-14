@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: which python ide
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: which python ide

@@ -1,4 +1,8 @@
 ---
+date: 2020-02-16
+title: 10 beginner tips for learning python
+---
+---
 tags: ["python"]
 date: 2020-02-16
 title: 10 beginner tips for learning python
