@@ -1,5 +1,10 @@
 ---
 tags: ["go"]
+date: 2020-02-16
+title: go slice
+---
+---
+tags: ["go"]
 date: 2020-02-14
 title: go slice
 ---

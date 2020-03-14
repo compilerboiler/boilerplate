@@ -1,5 +1,10 @@
 ---
 tags: ["go"]
+date: 2020-02-16
+title: what are goroutines
+---
+---
+tags: ["go"]
 date: 2020-02-14
 title: what are goroutines
 ---

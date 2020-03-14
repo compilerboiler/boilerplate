@@ -1,5 +1,10 @@
 ---
 tags: ["python"]
+date: 2020-02-16
+title: enumerate in python
+---
+---
+tags: ["python"]
 date: 2020-02-14
 title: enumerate in python
 ---

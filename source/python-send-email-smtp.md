@@ -1,5 +1,10 @@
 ---
 tags: ["python"]
+date: 2020-02-16
+title: python send email smtp
+---
+---
+tags: ["python"]
 date: 2020-02-14
 title: python send email smtp
 ---

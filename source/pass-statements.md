@@ -1,5 +1,10 @@
 ---
 tags: ["python"]
+date: 2020-02-16
+title: pass statements
+---
+---
+tags: ["python"]
 date: 2020-02-14
 title: pass statements
 ---

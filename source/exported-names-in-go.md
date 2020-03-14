@@ -1,5 +1,10 @@
 ---
 tags: ["go"]
+date: 2020-02-16
+title: exported names in go
+---
+---
+tags: ["go"]
 date: 2020-02-14
 title: exported names in go
 ---

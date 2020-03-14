@@ -1,5 +1,10 @@
 ---
 tags: ["python"]
+date: 2020-02-16
+title: return variables with flask
+---
+---
+tags: ["python"]
 date: 2020-02-14
 title: return variables with flask
 ---

@@ -1,5 +1,10 @@
 ---
 tags: ["python"]
+date: 2020-02-16
+title: file object in python
+---
+---
+tags: ["python"]
 date: 2020-02-14
 title: file object in python
 ---
