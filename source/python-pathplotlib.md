@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python pathplotlib
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python pathplotlib
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python pathplotlib
----
 With the <a href="https://python.org">Python</a> programming language, you can deal with files. Some things you can do with Python are <a href="https://pythonbasics.org/read-file/">read files</a>, <a href="https://pythonbasics.org/write-file/">write files</a>, create files and much more. 
 
 If you worked with files in Python, you know that dealing with Paths can be quite cumbersome. On top of that paths are written differently on systems like Windows (\) or Mac (/)

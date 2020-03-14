@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python why enummerate
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python why enummerate
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python why enummerate
----
 This post will discuss the <a href="https://python.org">Python</a> <a href="https://pythonbasics.org/enumerate/">enumerate</a> function quickly. Python is known to make code readable and using enumerate will make your code more readable. 
 
 ## Simple loops

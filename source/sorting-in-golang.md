@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: sorting in golang
----
----
-tags: ["go"]
-date: 2020-02-14
-title: sorting in golang
----
 Sorting numbers in <a href="https://golang.org/">Golang</a> is nothing like C. If you don't know about the C language, it makes you write a sorting function yourself. It is much easier in Go. There's a package named sort.
 
 This package has several methods to sort:

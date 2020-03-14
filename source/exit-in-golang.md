@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: exit in golang
----
----
-tags: ["go"]
-date: 2020-02-14
-title: exit in golang
----
 <a href="https://golang.org/">Go</a> is a popular programming language, that at first glance seems a bit like C/Java. The famous hello world program looks like this:
 
 ```go

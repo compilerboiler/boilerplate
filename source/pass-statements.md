@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: pass statements
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: pass statements
----
----
-tags: ["python"]
-date: 2020-02-14
-title: pass statements
----
 In some programming languages there are is a statement that does nothing. In assembly there's `nop` (no operation). How about Python?
 
 In Python you can use the `pass` statement. The `pass` statement does nothing.

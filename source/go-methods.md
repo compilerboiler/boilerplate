@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go methods
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go methods
----
 <a href="https://golang.org/">Go</a> does not have classes or object orientated programming in the traditional sense. But you can define methods on types.
 
 In Go, a method is a function with a special receiver argument. For example, we define two methods like that (getX and getY):

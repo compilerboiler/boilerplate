@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python logging
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python logging
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python logging
----
 You can log in <a href="https://python.org">Python</a> with the logger module. A log file can display or store messages while the program is running.
 
 Logging is very different than just relying on Python errors or <a href="https://pythonbasics.org/try-except/">try-except</a> cases. It is much more broad way to find the bugs in your program.

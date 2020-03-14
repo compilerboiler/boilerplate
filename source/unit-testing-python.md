@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: unit testing python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: unit testing python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: unit testing python
----
 Unit testing is a software testing method to test functions in source code. Python has a module for unit testing, <a href="https://docs.python.org/3/library/unittest.html#module-unittest">unittest</a>. 
 
 This is different from <a href="https://pythonspot.com/python-debugging/">debugging</a>, where you already know the program is not doing what you want. 

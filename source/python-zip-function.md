@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python zip function
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python zip function
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python zip function
----
 In <a href="https://python.org">Python</a> you can aggregate <a href="https://pythonbasics.org/iterable/">iteratables</a> (<a href="https://pythonbasics.org/list/">lists</a>, <a href="https://pythonspot.com/python-tuples/">tuples</a>). You can do that with the zip() function, which has nothing to do with the package format zip.
 
 Before playing with the zip function, you should know the <a href="https://pythonbasics.org">basics of Python</a>.

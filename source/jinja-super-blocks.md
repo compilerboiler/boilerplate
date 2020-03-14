@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: jinja super blocks
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: jinja super blocks
----
----
-tags: ["python"]
-date: 2020-02-14
-title: jinja super blocks
----
 In <a href="https://palletsprojects.com/p/jinja/">Jinja</a>, the template engine of <a href="https://palletsprojects.com/p/flask/">Flask</a> web framework (<a href="https://pythonbasics.org/what-is-flask-python/">what is Flask</a>?), you can create templates. You can use these templates to improve the user experience and pass Python data to the web browser.
 
 But with a large app, you'd have to rewrite the same template over and over to get the same design?

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python string substitute
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python string substitute
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python string substitute
----
 In <a href="https://python.org">Python</a> you can easily substitute a <a href="https://pythonbasics.org/strings/">string</a> without having to do character by character replacement (looking at you <a href="https://stackoverflow.com/questions/779875/what-is-the-function-to-replace-string-in-c">C programming</a>).
 
 In fact, Python has a method named **.replace()** which is part of the <a href="https://pythonbasics.org/strings/">string</a>.

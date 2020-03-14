@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python lists
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python lists
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python lists
----
 [Python](https://python.org) sequence is the most basic data structure. Each element in the sequence is assigned a number - its position, or index, the first index is 0, the second index is 1, and so on.
 
 Python has a built-in type 6 sequences, but the most common are [lists](https://pythonbasics.org/list/) and [tuples](https://pythonprogramminglanguage.com/tuples/).

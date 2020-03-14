@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: 10 beginner tips for learning python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: 10 beginner tips for learning python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: 10 beginner tips for learning python
----
 Are you learning to code in <a href="https://python.org">Python</a>? 
 
 If you are new to programming it can take some time to master the programming language. If it all seems confusing, here are some tips on becoming a great Python programmer.

@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go defer
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go defer
----
 In the <a href="https://golang.org">Golang</a> programming language you can use the defer statement. A defer statement defers the execution of a function until the surrounding <a href="https://golangr.com/methods/">function</a> returns. 
 
 So in practice, that means first finish the current function before executing the deferred function.

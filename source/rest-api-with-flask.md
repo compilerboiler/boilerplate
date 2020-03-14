@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: rest api with flask
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: rest api with flask
----
----
-tags: ["python"]
-date: 2020-02-14
-title: rest api with flask
----
 The Python <a href="https://palletsprojects.com/p/flask/">Flask</a> module is great for building a Rest API. A Rest API uses the <a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">HTTP</a> protocol as it was originally designed. 
 
 The HTTP protocol has many requests like **GET, PUT, POST, and DELETE** requests. These requests should be used for mutation, creation, and deletion respectively.

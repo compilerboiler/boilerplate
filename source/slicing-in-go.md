@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: slicing in go
----
----
-tags: ["go"]
-date: 2020-02-14
-title: slicing in go
----
 In <a href="https://golang.org">Go</a> you can easily slice <a href="https://golangr.com/strings/">strings</a> or <a href="https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7">arrays</a>. As the name implies, a slice is a subset of the whole.
 
 This is unlike C where you would have to use strcpy or other tricks to slice a string. (this is a lot of work)

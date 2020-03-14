@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: time conversion in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: time conversion in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: time conversion in python
----
 In Python, the <a href="https://docs.python.org/3.8/library/time.html">time</a> module provides many time related functions. 
 
 You can use the time module to get the <a href="https://pythonbasics.org/time-and-date/">time and date</a> and other things. You can use the function *time.time()* to get get the current time

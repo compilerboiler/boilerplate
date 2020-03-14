@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: time.sleep in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: time.sleep in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: time.sleep in python
----
 <a href="https://python.org">Python</a> has a module to deal with time. This lets you pause/wait some time in your code. To do this, first import the time module
 
     #!/usr/bin/python3

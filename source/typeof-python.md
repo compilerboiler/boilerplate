@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: typeof python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: typeof python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: typeof python
----
 In <a href="https://python.org">Python</a>, everything is an object (from <a href="https://pythonspot.com/objects-and-classes/">object orientated programming</a>). This is very different from other programming languages like C++, where object oriented programming is more of an addition to the functional language.
 
 Python is not a functional language, it is highly object orientated. In Python, every object is derived from a <a href="https://pythonbasics.org/class/">class</a>. 

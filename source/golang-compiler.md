@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: golang compiler
----
----
-tags: ["go"]
-date: 2020-02-14
-title: golang compiler
----
 If you have the <a href="https://golang.org/">Go programming language</a> installed on your computer, you can run Go programs. You can verify this by opening a terminal and typing 
 
 ```

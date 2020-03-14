@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python range function
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python range function
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python range function
----
 <a href="https://python.org">Python</a> has a function that generates numbers, the *range* function. This function creates a list of numbers.
 
 The range function is often used in a <a href="https://pythonbasics.org/for-loops/">for loop</a>, to repeat a certain number of times. You can see it used for creating a list of numbers too, writing down every number manually is just to cumbersome.

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: plot with python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: plot with python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: plot with python
----
 Do you want to make beautiful charts with <a href="https://python.org">Python</a>? You can with matplotlib or seaborn.
 
 <a href="https://matplotlib.org/">Matplotlib</a> is a plotting library for the Python programming language. It lets you create charts like a <a href="https://pythonbasics.org/matplotlib-bar-chart/">bar chart</a>, <a href="https://pythonbasics.org/matplotlib-line-chart/">line chart</a> and many other basic charts.

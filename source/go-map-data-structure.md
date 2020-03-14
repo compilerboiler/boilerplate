@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go map data structure
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go map data structure
----
 <a href="https://golang.org">Go</a> comes with many data structures, including a <a href="https://golangr.com/maps/">map</a> data structure.
 
 A (hash)map maps keys to values, this is a common data structure in programming. Many languages support it including Go and Python (dictionary).

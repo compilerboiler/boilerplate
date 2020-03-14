@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python break statement
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python break statement
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python break statement
----
 The [Python](https://python.org) break statement, like in C or the C++ programming language, breaks or closes a [for loop](https://pythonprogramminglanguage.com/for-loops/) or a [while loop](https://pythonprogramminglanguage.com/while-loop/).
 
 The `break` statement can be used to terminate a loop statement, i.e., False condition or loop condition has not yet been completed, will stop the execution loop.

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python in operator
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python in operator
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python in operator
----
 In the <a href="https://python.org">Python</a> programming language, the *in* operator is membership test operator. You can use it to check if a value exists in an object. 
 
 That means you don't need to use a for loop to go through the members and use an if to compare (as you may be used to in C)

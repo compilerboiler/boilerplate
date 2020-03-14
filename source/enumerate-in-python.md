@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: enumerate in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: enumerate in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: enumerate in python
----
 Are you new to <a href="https://python.org">Python</a>? Did you program in other languages before?
 
 You may think the way to get the index is by creating a loop, getting the size of the array, creating an index variable, comparing the index variable to the condition and increasing it manually.. phew!

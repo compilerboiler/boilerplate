@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python send email smtp
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python send email smtp
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python send email smtp
----
 [SMTP (Simple Mail Transfer Protocol)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) i.e., Simple Mail Transfer Protocol, which is a set of rules for transmitting from the source address to the destination address of the message, it an internet protocol.
 
 The python smtplib provides a very convenient way to send e-mail. It smtp protocol for a simple package. You can use [pip to install it](https://pythonbasics.org/how-to-use-pip-and-pypi/).

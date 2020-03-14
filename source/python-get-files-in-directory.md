@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python get files in directory
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python get files in directory
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python get files in directory
----
 How do you get the filenames in a directory? You can do that automatically with <a href="https://python.org/">Python</a>, including all files in sub directories.
 
 To get started, you need to import the os module, this contains operating system specific functionality.

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python id function
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python id function
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python id function
----
 [Python](https://python.org) stores all of its data in the computers memory. The memory is a block that is divided into sub blocks, where each block has an address.
 
 ![memory address](https://dev-to-uploads.s3.amazonaws.com/i/ndbhc7hlqprrter6ulz3.png)

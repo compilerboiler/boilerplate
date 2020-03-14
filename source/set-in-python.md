@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: set in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: set in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: set in python
----
 In <a href="https://python.org">Python</a>, a `set` is a container whose objects must be unique. If you try to add something that's already in the set, it will not do anything (no error will be thrown).
 
 ## Set example

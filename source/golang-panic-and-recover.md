@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: golang panic and recover
----
----
-tags: ["go"]
-date: 2020-02-14
-title: golang panic and recover
----
 In <a href="https://golang.org/">Golang</a>, Panic is a function that stops the ordinary flow of control and starts panicking.
 
 <a href="https://golangr.com/errors/">Errors</a> are for abnormal conditions during program execution, but there are some cases where the program cannot continue executing after something went wrong.

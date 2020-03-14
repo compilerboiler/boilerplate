@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: what are goroutines
----
----
-tags: ["go"]
-date: 2020-02-14
-title: what are goroutines
----
 In programming languages, code is often split up into functions. Functions help to make code reusable, extensible etc. 
 
 In <a href="https://golang.org/">Go</a> there's a special case: goroutines. So is a goroutine a function? Not exactly. A goroutine is a lightweight thread managed by the Go.

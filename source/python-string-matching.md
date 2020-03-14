@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python string matching
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python string matching
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python string matching
----
 In [Python](https://python.org) programming, if you have a string you can do comparison or so called *string matching*.
 
 Matches the beginning or end of the [string](https://pythonbasics.org/strings/) is generally used in the matching file type or url

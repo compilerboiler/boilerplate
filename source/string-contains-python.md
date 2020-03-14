@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: string contains python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: string contains python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: string contains python
----
 In the <a href="https://python.org">Python</a> programming language, you can work with strings. A <a href="https://pythonbasics.org/strings/">string</a> is a text object in Python. If you have a large string (sentence, paragraph, chapter, book), you may want to search in it.
 
 Searching in a large string, is known as finding a sub-string. Programming languages handle with this in different ways.

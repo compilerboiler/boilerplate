@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: golang loops
----
----
-tags: ["go"]
-date: 2020-02-14
-title: golang loops
----
 A loop lets you repeat code. There are different types of loops, one of them is a for loop. For loops in <a href="https://golang.org/">Go (golang)</a> are more similar to C/Java than Python. In Python the syntax is
 
     for i in range(1,10):

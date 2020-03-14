@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python relative import
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python relative import
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python relative import
----
 Like any other modern programming language, in <a href="https://python.org">Python</a> you can import code from other files or <a href="https://pythonbasics.org/modules/">modules</a>.  If you used Python before, you know that you can use modules. 
 
 With modules (packages) you can use already existing code bases in your own code, saving you a lot of development time. 

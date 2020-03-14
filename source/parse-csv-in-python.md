@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: parse csv in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: parse csv in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: parse csv in python
----
 A CSV (Comma Separated Values) file is a plain text file where each value is separated by a comma. 
 
 Excel can open CSV Files. This is really cool because it means you can output your data into csv from Python and then open it in Excel.

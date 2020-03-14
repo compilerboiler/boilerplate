@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: read csv in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: read csv in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: read csv in python
----
 A csv file is a file in which data is separated by a delimiter (often a comma). Many office programs can store data in a csv format (<a href="https://sites.google.com/a/temple.edu/googleapps1/tip-of-the-day/april28-exportagooglespreadsheetintovariousformats">Google Sheet</a>, <a href="https://answers.microsoft.com/en-us/msoffice/forum/all/how-to-save-excel-file-in-csv-with-comma-delimited/7ee047dc-8f37-42d4-9be9-954fcf5de2da">Microsoft Excel</a> etc).
 
 The file format is just that simple: a bunch of data which is divided using a delimiter (sometimes called the separator). Example CSV file data:

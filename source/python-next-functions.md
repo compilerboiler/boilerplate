@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python next functions
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python next functions
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python next functions
----
 In this article we'll discuss the [Python](https://python.org) `next()` function. The Python next() function returns an iterator to the next item. If you have an iterable, it makes sense to use the next() function.
 
 The next() syntax is:

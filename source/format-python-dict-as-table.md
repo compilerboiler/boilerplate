@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: format python dict as table
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: format python dict as table
----
----
-tags: ["python"]
-date: 2020-02-14
-title: format python dict as table
----
 In <a href="https://python.org">Python</a> you can use formatted strings to output variables easily.  
 Formatted string literals (f-strings) let you include variables inside a string by prefixing the string with f or F and writing expressions as {expression}.
 

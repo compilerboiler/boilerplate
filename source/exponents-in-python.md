@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: exponents in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: exponents in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: exponents in python
----
 You can use exponents in <a href="https://python.org">Python</a>, without using any modules. Let's see an example. To raise 3 squared, would look like this:
 
 ```python

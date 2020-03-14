@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: flask jinja
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: flask jinja
----
----
-tags: ["python"]
-date: 2020-02-14
-title: flask jinja
----
 You can build web applications in the <a href="https://python.org">Python</a> programming language with the <a href="https://palletsprojects.com/p/flask/">Flask framework</a> (<a href="https://pythonbasics.org/what-is-flask-python/">what is Flask</a>).
 
 When creating the user interface, you want to use variables from your Python code. You can do that with a template engine. Templates are what the end user see in their web browser. 

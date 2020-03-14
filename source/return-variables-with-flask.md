@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: return variables with flask
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: return variables with flask
----
----
-tags: ["python"]
-date: 2020-02-14
-title: return variables with flask
----
 <a href="https://python.org">Python</a> can be used for web development, Flask is a Python web framework based on WSGI. Flask lets you build web apps with Python (<a href="https://pythonbasics.org/what-is-flask-python/">what is Flask</a>). 
 
 You can use Flask to build single page apps, a blog, web apps and many more things. Some people use it to build a user interface on their <a href="https://raspberrypi.org/">Raspberry Pi</a>. 

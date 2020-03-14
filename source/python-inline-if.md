@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python inline if
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python inline if
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python inline if
----
 In coding, you often use branching. A branch in code is executed conditionally. Without branching, you only have a list of instructions and it would always do the same, no matter what happens. 
 
 Many programming languages support branching. <a href="https://python.org">Python</a> also supports branching. Developers speak of <a href="https://pythonbasics.org/if-statements/">if-statements</a> instead of branching. 

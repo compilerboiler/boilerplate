@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: exported names in go
----
----
-tags: ["go"]
-date: 2020-02-14
-title: exported names in go
----
 Many packages have variables (constants). In the <a href="https://golangr.com/">Go</a> programming language, exported <a href="https://golangr.com/variables/">variable</a> names are a bit different.
 
 Before playing around with Go packages and constants, you should be able to <a href="https://golangr.com/hello-world/">run go programs</a>

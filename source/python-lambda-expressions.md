@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python lambda expressions
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python lambda expressions
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python lambda expressions
----
 
 You can create small anonymous functions in <a href="https://python.org">Python</a> using *the lambda keyword*. 
 

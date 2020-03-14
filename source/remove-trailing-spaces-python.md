@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: remove trailing spaces python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: remove trailing spaces python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: remove trailing spaces python
----
 If you have a Python text [string](https://pythonbasics.org/strings/), and want trailing spaces removed you can do that with the method `.strip()`, `.lstrip()` and `.rstrip()`.
 
 That removes the spaces before and after the string.

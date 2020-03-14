@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python dictionary examples
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python dictionary examples
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python dictionary examples
----
 The [Python](https://python.org) language supports many types of variables. One of those types is a dictionary, this is similar to a [hash map](https://en.wikipedia.org/wiki/Hash_table) in computer science.
 
 So another variable is the [dictionary](https://pythonprogramminglanguage.com/dictionary/): a container model, it can store any type of object.

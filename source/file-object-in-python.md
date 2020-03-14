@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: file object in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: file object in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: file object in python
----
 <a href="https://python.org">Python</a> supports file like objects, that don't write to the disk but stay in the memory.
 
 You can create file like objects with <a href="https://docs.python.org/2/library/stringio.html">StringIO</a>. From Python version > 3 this is part of the <a href="https://docs.python.org/3/library/io.html">io module</a>. 

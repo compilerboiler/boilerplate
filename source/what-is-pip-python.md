@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: what is pip python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: what is pip python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: what is pip python
----
 In the <a href="https://python.org">Python</a> programming languages, you can use code of others, packages. PIP is a package manager for Python <a href="https://pythonbasics.org/modules/">modules</a>. Modules are Python code libraries you can include in your project. 
 
 For Python > 3.4 pip is installed by default.

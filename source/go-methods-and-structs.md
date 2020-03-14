@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go methods and structs
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go methods and structs
----
 In <a href="https://golang.org/">Golang</a> methods can take <a href="https://golangr.com/struct/">structs</a> as parameter. You may be familiar with this from other languages, where you post objects as <a href="https://golangr.com/methods/">method</a> parameter.
 
 This is great, because while Go doesn't support object orientated programming in the traditional sense, this gives you the feel of objects.

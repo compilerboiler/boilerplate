@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python dict is ordered
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python dict is ordered
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python dict is ordered
----
 In <a href="https://python.org">Python</a>, a <a href="https://pythonbasics.org/dictionary/">dictionary</a> is Pythons version of a map (associative array or hash table). It lets you map keys to values. This makes it easy to request a value given a key.
 
 A hash table contains both keys and values, but they are in a pseudo random order. This is different from a list (array), that only contains elements.

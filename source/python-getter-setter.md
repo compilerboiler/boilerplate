@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python getter setter
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python getter setter
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python getter setter
----
 The [Python](https://python.org) `setattr()` function corresponds to the function `getattr()`. It set the attribute values of an object.
 
 Python is an object orientated language, so you can have multiple objects in your applications run-time. 

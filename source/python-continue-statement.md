@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python continue statement
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python continue statement
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python continue statement
----
 In [Python](https://python.org) code you can repeat code using loops, the most common being a for loop and a while loop.
 
 Python continue keyword is used to jump out of this cycle, and the [break](https://dev.to/libertycodervice/python-break-statement-4ki5) keyword out of the cycle.

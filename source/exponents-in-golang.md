@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: exponents in golang
----
----
-tags: ["go"]
-date: 2020-02-14
-title: exponents in golang
----
 You can use exponents in <a href="https://golang.org/">Golang</a> *(Exponents are shorthand for repeated multiplication of the same thing by itself.)*. 
 
 You need to import the math module to do that. It comes with the Pow function. This function works like this:

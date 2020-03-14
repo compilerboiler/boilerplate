@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: which python ide
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: which python ide
----
----
-tags: ["python"]
-date: 2020-02-14
-title: which python ide
----
 If you are new to <a href="https://python.org">Python</a> programming, you may wonder where to start and how to run Python code. In general there are two ways: 
 
 * in the terminal

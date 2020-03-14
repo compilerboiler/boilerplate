@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python try catch
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python try catch
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python try catch
----
 Errors can happen if a <a href="https://python.org">Python</a> program is running. There are many types of errors, like a "couldn't open file error" or "zero division error".
 
 If an error pops up, that doesn't mean your program should crash. 

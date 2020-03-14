@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: function values in go
----
----
-tags: ["go"]
-date: 2020-02-14
-title: function values in go
----
 In the <a href="https://golang.org/">Go</a> programming language, <a href="https://golangr.com/methods/">functions</a> are values. That means that you can pass a function as parameter in a function.
 
 For example, you can define a function `mul` which multiplies x and y. Then it returns the result.

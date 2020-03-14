@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: popular python packages
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: popular python packages
----
----
-tags: ["python"]
-date: 2020-02-14
-title: popular python packages
----
 In this post I'll talk about some popular [Python packages](https://pypi.org/). These packages are used for a variety of purposes. You can install modules (packages) with the Python package manager [pip](https://pythonbasics.org/how-to-use-pip-and-pypi/).
 
 ## Desktop software

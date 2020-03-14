@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go multiple return
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go multiple return
----
 Typically a function only returns one variable, but why should that be?
 
 In the <a href="https://golang.org/">Go</a> programming language, <a href="https://golangr.com/methods/">functions</a> can return multiple values. This is unlike C, where a function only returns one value. However there are other languages that support multiple return, like Python.

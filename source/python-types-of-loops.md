@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python types of loops
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python types of loops
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python types of loops
----
 In this article we introduce Python's loop, the program in general are executed sequentially. Sequentially means in sequential order (top down):
 
 ```

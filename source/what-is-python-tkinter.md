@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: what is python tkinter
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: what is python tkinter
----
----
-tags: ["python"]
-date: 2020-02-14
-title: what is python tkinter
----
 To make a graphical user interface, you can use the tkinter module. <a href="https://docs.python.org/3/library/tkinter.html">Tkinter</a> is a module for GUIs (based on the Tk GUI toolkit).  
 
 This is the standard graphical user interface for Python. Tkinter is included with Linux, Microsoft Windows and Mac OS X.

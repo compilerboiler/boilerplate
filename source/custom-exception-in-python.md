@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: custom exception in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: custom exception in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: custom exception in python
----
 <a href="https://python.org">Python</a> Applications may call custom exceptions by creating a brand new exception class. Custom Exceptions need to be derived from the `Exception` class.
 
 ## What is an Exception?

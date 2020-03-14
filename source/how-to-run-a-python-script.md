@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: how to run a python script
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: how to run a python script
----
----
-tags: ["python"]
-date: 2020-02-14
-title: how to run a python script
----
 Before writing <a href="https://python.org">Python</a> scripts, you should be able to run them. If you run a Python script, Python makes sure the computer understands the code: it interprets. 
 
 Any Python script should end with the .py extension. So program names could be:

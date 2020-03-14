@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: nested loops python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: nested loops python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: nested loops python
----
 [Python](https://python.org) language allows loop embedded inside another. A loop repeats one or more lines of code. 
 
 In programming loops are usually [for loops](https://pythonbasics.org/for-loops/). If a loop is inside another loop, this is called a nested loop. You can make nested loops with a [while loop](https://pythonprogramminglanguage.com/while-loop/).

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: for dict python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: for dict python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: for dict python
----
 In <a href="https://python.org">Python</a>, a dictionary is a key-value mapping. Every value is mapped to one key. A dictionary can have zero or more elements.
 
 The dictionary below has 3 pairs, each pair has one value. 'a' is mapped to 1, 'b' is mapped to 2, 'c' is mapped to 3.

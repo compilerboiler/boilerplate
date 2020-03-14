@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python slice
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python slice
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python slice
----
 You can use the [Pythons](https://python.org) `slice()` function to create object slices. It is mainly used in the slicing operation in the function parameter. 
 
 You can use the `slice()` function for [string slicing](https://pythonspot.com/string-slices-part-2/). The difference with default slicing `[start:stop]` is that it looks nice.

@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: random number in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: random number in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: random number in python
----
 In <a href="https://python.org">Python</a> you can generate random numbers with the random module. To load this module use the line
 
 ```python

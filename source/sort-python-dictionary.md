@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: sort python dictionary
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: sort python dictionary
----
----
-tags: ["python"]
-date: 2020-02-14
-title: sort python dictionary
----
 In <a href="https://python.org">Python</a> a dictionary is a <a href="https://pythonbasics.org/dictionary/">key-value mapping</a>. Its a set of key-value pairs, every key has a value.
 
 You can use this to <a href="https://pythonspot.com/python-dictionaries/">receive values using keys</a>. Values in a dictionary can be of any data type. The data in a dictionary is not in any specific order.

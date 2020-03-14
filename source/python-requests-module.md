@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python requests module
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python requests module
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python requests module
----
 The requests module lets you make HTTP requests in <a href="https://python.org">Python</a>. <a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">HTTP</a> is the protocol of the web. The HTTP protocol has different type of requests, like the get request.
 
 ## Examples

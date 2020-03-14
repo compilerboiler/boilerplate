@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: none and null difference
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: none and null difference
----
----
-tags: ["python"]
-date: 2020-02-14
-title: none and null difference
----
 The keywords *Null* and *None*. If you are new to programming you may think they mean zero, they do not. On first sight they look alike, so what's the difference?
 
 In many programming languages (C, Java, SQL, JavaScript) there is a Null value. Sometimes explicitly spelled as NULL or null. 

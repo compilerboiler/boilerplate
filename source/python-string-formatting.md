@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: python string formatting
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: python string formatting
----
----
-tags: ["python"]
-date: 2020-02-14
-title: python string formatting
----
 You can do two ways of string formatting in Python. The most easy way is to use f-strings or formatted strings.  The other way is similar to the printf function in the C programming language.
 
 The printf way:

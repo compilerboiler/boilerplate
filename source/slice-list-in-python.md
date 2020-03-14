@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: slice list in python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: slice list in python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: slice list in python
----
 The <a href="https://python.org">Python</a> programming language has support for lists, a <a href="https://pythonspot.com/python-lists/">list</a> is a collection. It can be a collection of numbers, strings or other types of data.
 
 The example below defines the list x:

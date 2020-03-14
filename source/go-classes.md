@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go classes
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go classes
----
 <a href="https://golang.org">Go</a> is not a pure object oriented programming language. In truth, Go does not provide classes. Go uses <a href="https://golangr.com/struct/">structs</a> instead. 
 
 Create a file example.go with the struct student. You can create a new person using this struct as the example shows:

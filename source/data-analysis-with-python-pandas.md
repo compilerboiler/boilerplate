@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: data analysis with python pandas
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: data analysis with python pandas
----
----
-tags: ["python"]
-date: 2020-02-14
-title: data analysis with python pandas
----
 <a href="https://pandas.pydata.org/">Pandas</a> is a data analysis module for Python. The module was first developed in 2008 and has become one of the most popular data analysis modules.
 
 You can read all kinds of data into Python with pandas.

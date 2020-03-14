@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: web app with python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: web app with python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: web app with python
----
 You can do web development in Python. Make a web app or website with <a href="https://python.org">Python</a>? It's easier than you think.
 
 First pick a web development module. There are many like 

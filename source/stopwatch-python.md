@@ -2,16 +2,6 @@
 date: 2020-02-16
 title: stopwatch python
 ---
----
-tags: ["python"]
-date: 2020-02-16
-title: stopwatch python
----
----
-tags: ["python"]
-date: 2020-02-14
-title: stopwatch python
----
 In <a href="https://python.org">Python</a> you can use the time module to wait (you can also get the <a href="https://pythonbasics.org/time-and-date/">time and date</a>). To be explicit, the time module provides various time-related functions.
 
 This is very useful for many applications. If you make a game, it should not update every millisecond. If you make weather station software, it makes no sense to update in such a short time. For an alarm clock app, you need it to wait.

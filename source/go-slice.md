@@ -1,13 +1,3 @@
----
-tags: ["go"]
-date: 2020-02-16
-title: go slice
----
----
-tags: ["go"]
-date: 2020-02-14
-title: go slice
----
 In the <a href="https://golang.org">Go</a> programming language you can create <a href="https://golangr.com/arrays/">arrays</a>: collections.
 
 You can create slices with the built-in **make()** function; you can create dynamically-sized arrays this way.
